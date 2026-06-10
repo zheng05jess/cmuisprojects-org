@@ -227,6 +227,32 @@ label:hover{
   transition: all 0.3s ease-in-out;
 }
 
+.course-popup {
+  position: absolute;
+  top: 50%;
+  left: 45%;
+  transform: translate(-50%, -50%);
+
+  background: rgba(166, 25, 46, 0.75);
+  color: white;
+  padding: 15px 25px;
+  border-radius: 8px;
+
+  font-family: Josefin_Sans;
+  font-size: 1.5rem;
+  text-align: center;
+
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s ease;
+  z-index: 10;
+}
+
+.img-container:hover .course-popup {
+  opacity: 1;
+  visibility: visible;
+}
+
 .checkbox-group{
   text-align: center;
   padding:2% 10% 0% 10% ;

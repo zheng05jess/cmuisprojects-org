@@ -7208,5 +7208,908 @@
       "technologystrategy",
       "userexperience&userinterface"
     ]
+  },
+  {
+    "id": 274,
+    "partner": "Achieva",
+    "year": 2026,
+    "course": [
+      "67-373"
+    ],
+    "representatives": [
+      "Ryan Jackson",
+      "Lisa Stroup",
+      "Kira Gabridge"
+    ],
+    "students": [
+      "Ashley Liu",
+      "Kayla Edwards",
+      "Victoria Solsky"
+    ],
+    "desc": "Achieva is a non-profit organization dedicated to advocating for and providing comprehensive support and services to people with disabilities and their families. To support this mission, our CMU IS team built a custom rideshare application that coordinates transportation to and from work, specifically designed to support the independence of people with disabilities. This system empowers passengers to manage their own travel while reducing the high costs of third-party services and relieving family members of the daily burden of manual route planning and transportation.",
+    "logo": "assets/img/project_logos/spring2026/1.png",
+    "pdf": "assets/img/project_pdfs/spring2026/1.pdf",
+    "sdg": [
+      "decentworkandeconomicgrowth",
+      "industryinnovationandinfrastructure",
+      "reducedinequalities"
+    ],
+    "tech": [
+      "api",
+      "dataanalytics",
+      "databasesolution",
+      "geographicinformationsystems",
+      "mobileapp",
+      "optimizationalgorithms",
+      "softwareintegration",
+      "technologystrategy",
+      "userexperience&userinterface",
+      "webapp"
+    ]
+  },
+  {
+    "id": 275,
+    "partner": "African Amer Chamber",
+    "year": 2026,
+    "course": [
+      "67-373"
+    ],
+    "representatives": [
+      "African American Chamber of Commerce of Western Pennsylvania"
+    ],
+    "students": [
+      "Jonas Soh",
+      "Andrews Akwei",
+      "Snehal Paliwal"
+    ],
+    "desc": "The African American Chamber of Commerce of Western Pennsylvania's mission is to provide business opportunities for minority owned businesses. Our team optimized the organization's new CRM system and added new features like certificate renewal reminders and request-for-proposal (RFP) matching. Now the chamber has improved analytics of the impact of their services and events and can provide new value to businesses by tracking their certificates and providing work opportunities from corporations that match their interests and qualifications.",
+    "logo": "assets/img/project_logos/spring2026/2.jpg",
+    "pdf": "assets/img/project_pdfs/spring2026/2.pdf",
+    "sdg": [
+      "sustainablecitiesandcommunities"
+    ],
+    "tech": [
+      "customerrelationshipmanagementsystem"
+    ]
+  },
+  {
+    "id": 276,
+    "partner": "AllyRX",
+    "year": 2026,
+    "course": [
+      "67-373"
+    ],
+    "representatives": [
+      "Larry Gioia",
+      "Jamie Wyels"
+    ],
+    "students": [
+      "Autumn Qiu",
+      "Evelyn Zheng",
+      "Sean Jiang"
+    ],
+    "desc": "SyncleRx is an early-stage healthcare technology initiative transforming medication synchronization (Med Sync) for independent community pharmacies. The initial MVP of the technology was built by a small team of Carnegie Mellon Information Systems students and is led by two Pittsburgh-native founders with 40+ years of combined experience in independent pharmacy and product strategy. The SyncleRx platform analyzes pharmacy management system data in real-time to identify synchronization gaps and deliver explainable, actionable recommendations. By streamlining workflows and reducing cognitive burden, SyncleRx helps pharmacists scale patient management, reduce human error, and optimize their time, thereby enabling them to dedicate more time to care for the patients and communities they serve.",
+    "logo": "assets/img/project_logos/spring2026/3.png",
+    "pdf": "assets/img/project_pdfs/spring2026/3.pdf",
+    "sdg": [
+      "goodhealthandwellbeing"
+    ],
+    "tech": [
+      "api",
+      "databasesolution",
+      "userexperience&userinterface",
+      "webapp"
+    ]
+  },
+  {
+    "id": 277,
+    "partner": "Aria412",
+    "year": 2026,
+    "course": [
+      "67-373"
+    ],
+    "representatives": [
+      "Desirée Soteres"
+    ],
+    "students": [
+      "Biplop Ghimire",
+      "Joon Kwon",
+      "Ryan Wang"
+    ],
+    "desc": "Aria412 is a Pittsburgh-based nonprofit opera company dedicated to making opera and classical music accessible to the full community through free concerts in non-traditional venues. Our team rebuilt the organization's search discoverability through comprehensive SEO improvements, implemented a customer marketing automation integration, and developed custom AI tools to ensure the client can maintain the digital infrastructure independently. As a result, Aria412 went from having no presence in non-branded Google searches to ranking on the first page for Pittsburgh live opera queries and appearing in local Google search results for the first time, with ongoing automation eliminating the manual audience management burden on the organization's sole operator.",
+    "logo": "assets/img/project_logos/spring2026/4.png",
+    "pdf": "assets/img/project_pdfs/spring2026/4.pdf",
+    "sdg": [
+      "reducedinequalities",
+      "sustainablecitiesandcommunities",
+      "partnershipsforthegoals"
+    ],
+    "tech": [
+      "artificialintelligence&machinelearning",
+      "searchengineoptimization",
+      "softwareintegration",
+      "technologystrategy"
+    ]
+  },
+  {
+    "id": 278,
+    "partner": "Arts Excursions",
+    "year": 2026,
+    "course": [
+      "67-373"
+    ],
+    "representatives": [
+      "Edith Abeyta"
+    ],
+    "students": [
+      "Lisa Huang",
+      "Aaron HuSun",
+      "Ismael Garudo"
+    ],
+    "desc": "Arts Excursions Unlimited (AEU) is a grassroots, community-based arts organization founded in 2015 in Hazelwood, Pittsburgh, that creates accessible arts and cultural experiences through excursions, community art initiatives, and relationship-centered programming. The CMU IS student team rebuilt AEU's WordPress website with a structured events publishing workflow, a categorized media archive, a mobile-responsive public-facing redesign, and a comprehensive documentation and training package covering every page. The new site replaces a platform that had not been substantively updated since 2020 with a living digital presence AEU's director can maintain independently, reclaiming organizational time for community programming and positioning AEU to reach funders, prospective volunteers, and a national audience of arts and civic-life practitioners.",
+    "logo": "assets/img/project_logos/spring2026/5.png",
+    "pdf": "assets/img/project_pdfs/spring2026/5.pdf",
+    "sdg": [
+      "qualityeducation",
+      "reducedinequalities",
+      "sustainablecitiesandcommunities"
+    ],
+    "tech": [
+      "userexperience&userinterface",
+      "webapp"
+    ]
+  },
+  {
+    "id": 279,
+    "partner": "City of Pgh Safe Routes",
+    "year": 2026,
+    "course": [
+      "67-373"
+    ],
+    "representatives": [
+      "Harriet Jackson"
+    ],
+    "students": [
+      "Evelyn Lui",
+      "Doris Gao",
+      "Lillian Zhao"
+    ],
+    "desc": "The Safe Routes to School (SRTS) program, housed within Pittsburgh's Department of Mobility and Infrastructure (DOMI), works to increase the number of students who walk and bike to school safely through education, encouragement, and infrastructure improvements. The consulting team designed and implemented a digital walkability audit system using ArcGIS Survey123, replacing a manual paper-based process with structured digital data collection and automated report generation for multiple stakeholder audiences. The new system eliminates duplicate data entry, enables Harriet to generate professional audit reports for city council, DOMI leadership, and school administrators in a fraction of the time previously required, freeing capacity to expand audits to more Pittsburgh schools.",
+    "logo": "assets/img/project_logos/spring2026/6.png",
+    "pdf": "assets/img/project_pdfs/spring2026/6.pdf",
+    "sdg": [
+      "goodhealthandwellbeing",
+      "qualityeducation",
+      "industryinnovationandinfrastructure",
+      "reducedinequalities",
+      "sustainablecitiesandcommunities"
+    ],
+    "tech": [
+      "artificialintelligence&machinelearning",
+      "dataanalytics",
+      "databasesolution",
+      "geographicinformationsystems",
+      "softwareintegration",
+      "technologystrategy",
+      "webapp"
+    ]
+  },
+  {
+    "id": 280,
+    "partner": "CORE",
+    "year": 2026,
+    "course": [
+      "67-373"
+    ],
+    "representatives": [
+      "Bill DiPlacido",
+      "Cade Gallagher"
+    ],
+    "students": [
+      "Matthew Wong",
+      "Alex Torres Vivaldo",
+      "Josh Dong"
+    ],
+    "desc": "The Center for Organ Recovery & Education (CORE) saves and improves lives through organ, tissue, and cornea donation. Our team built a mobile-first TrackerBoard MVP for CORE's most critical Administrator on Call workflows. This project reduced operational friction and improved real-time case handoffs.",
+    "logo": "assets/img/project_logos/spring2026/7.jpg",
+    "pdf": "assets/img/project_pdfs/spring2026/7.pdf",
+    "sdg": [
+      "goodhealthandwellbeing"
+    ],
+    "tech": [
+      "api",
+      "databasesolution",
+      "mobileapp",
+      "softwareintegration",
+      "userexperience&userinterface"
+    ]
+  },
+  {
+    "id": 281,
+    "partner": "Elevate NP",
+    "year": 2026,
+    "course": [
+      "67-373"
+    ],
+    "representatives": [
+      "Jon Hoffman"
+    ],
+    "students": [
+      "Joyce Lam",
+      "Lena Poshni",
+      "Yuri Xu"
+    ],
+    "desc": "Elevate NP is a nonprofit capacity-building organization that supports small and midsize nonprofits across Southwestern Pennsylvania. Our team developed an automation to score a nonprofit based on their intake survey. This solution allows staff to generate standardized scores instantly, reducing manual effort and turnaround time. As a result, the organization is better positioned to scale its operations and support a greater number of nonprofits more efficiently.",
+    "logo": "assets/img/project_logos/spring2026/8.png",
+    "pdf": "assets/img/project_pdfs/spring2026/8.pdf",
+    "sdg": [
+      "partnershipsforthegoals"
+    ],
+    "tech": [
+      "customerrelationshipmanagementsystem",
+      "softwareintegration",
+      "userexperience&userinterface"
+    ]
+  },
+  {
+    "id": 282,
+    "partner": "Future Kings Mentoring",
+    "year": 2026,
+    "course": [
+      "67-373"
+    ],
+    "representatives": [
+      "Sean Spencer",
+      "Terrell Galloway"
+    ],
+    "students": [
+      "Alex Cheung",
+      "Jose Lima",
+      "Mason Brownrigg"
+    ],
+    "desc": "Future Kings Mentoring (FKM) is dedicated to cultivating and developing male-identifying black youth into realizing they are Future Kings—young successful leaders in their careers, in their communities, and in their worlds—through programming and community events. The CMU IS students redesigned the FKM website to be more actionable, created an automation to upload donor records to Salesforce, and cataloged their presentations through the creation of a Python AI service. The new website design increases donor conversion rate, and the automation along with the cataloging saves several hours of laborious work that allows FKM leadership to focus on their mission.",
+    "logo": "assets/img/project_logos/spring2026/9.png",
+    "pdf": "assets/img/project_pdfs/spring2026/9.pdf",
+    "sdg": [
+      "qualityeducation",
+      "decentworkandeconomicgrowth",
+      "reducedinequalities",
+      "peacejusticeandstronginstitutions"
+    ],
+    "tech": [
+      "api",
+      "artificialintelligence&machinelearning",
+      "customerrelationshipmanagementsystem",
+      "databasesolution",
+      "searchengineoptimization",
+      "softwareintegration",
+      "technologystrategy",
+      "userexperience&userinterface"
+    ]
+  },
+  {
+    "id": 283,
+    "partner": "Greater Valley Community Services",
+    "year": 2026,
+    "course": [
+      "67-373"
+    ],
+    "representatives": [
+      "Anita Tillman"
+    ],
+    "students": [
+      "Heidi Tao",
+      "Matthew Mingus",
+      "Isabelle Anis",
+      "Terry Kim"
+    ],
+    "desc": "Greater Valley Community Services (GVCS) is a non-profit that runs programs in Health & Wellness, Education, and Family support. The CMU IS team partnered with GVCS to support the James Project, a community initiative focused on improving safety, communication, and understanding between neurodivergent individuals, particularly those with autism, law enforcement, caregivers, and the broader community. The team supported the development of virtual reality (VR) training decision trees designed around high-stress, real-world situations. The final result is a fully developed VR training scenario and a reusable structure that serves as a foundational template for future scenarios and expansion.",
+    "logo": "assets/img/project_logos/spring2026/10.png",
+    "pdf": "assets/img/project_pdfs/spring2026/10.pdf",
+    "sdg": [
+      "qualityeducation",
+      "decentworkandeconomicgrowth",
+      "reducedinequalities",
+      "peacejusticeandstronginstitutions"
+    ],
+    "tech": [
+      "technologystrategy",
+      "userexperience&userinterface",
+      "webapp"
+    ]
+  },
+  {
+    "id": 284,
+    "partner": "Healthy Habits Org",
+    "year": 2026,
+    "course": [
+      "67-373"
+    ],
+    "representatives": [
+      "Toree Robinson",
+      "Akeeme Robinson"
+    ],
+    "students": [
+      "Yining He",
+      "Annika Santhanam",
+      "Evan Cen"
+    ],
+    "desc": "Healthy Habits is a Pittsburgh-based nonprofit dedicated to improving wellness outcomes for youth and older adults in underserved communities through culturally rooted programming. Our team designed and implemented a centralized system that integrates registration, attendance, and donor tracking using Google Sheets, Google Forms, and Google Apps Script. This solution streamlines workflows, reduces administrative burden, and improves data consistency to better support the organization's operations and growth.",
+    "logo": "assets/img/project_logos/spring2026/11.png",
+    "pdf": "assets/img/project_pdfs/spring2026/11.pdf",
+    "sdg": [
+      "goodhealthandwellbeing",
+      "qualityeducation",
+      "reducedinequalities",
+      "sustainablecitiesandcommunities",
+      "partnershipsforthegoals"
+    ],
+    "tech": [
+      "customerrelationshipmanagementsystem",
+      "databasesolution",
+      "optimizationalgorithms",
+      "technologystrategy"
+    ]
+  },
+  {
+    "id": 285,
+    "partner": "Hebron Community Ctr",
+    "year": 2026,
+    "course": [
+      "67-373"
+    ],
+    "representatives": [
+      "Jennifer Balkey"
+    ],
+    "students": [
+      "Katie Makarska",
+      "Skylar Arce",
+      "Rathi Murugan"
+    ],
+    "desc": "Hebron Community Center is a 501(c)(3) nonprofit serving the Penn Hills community through accessible fitness and wellness programs. Our team redesigned the organization's GetFit check-in flow in Zoho Creator and built a payment processing system integrated with Zoho CRM that automatically captures participant, activity, and transaction data at the point of check-in. The new system eliminates manual payment reconciliation, resolves persistent duplicate member records, and creates the structured data foundation needed for financial reporting dashboards that will support board presentations and grant applications.",
+    "logo": "assets/img/project_logos/spring2026/12.png",
+    "pdf": "assets/img/project_pdfs/spring2026/12.pdf",
+    "sdg": [
+      "goodhealthandwellbeing",
+      "reducedinequalities",
+      "sustainablecitiesandcommunities",
+      "partnershipsforthegoals"
+    ],
+    "tech": [
+      "api",
+      "customerrelationshipmanagementsystem",
+      "dataanalytics",
+      "databasesolution",
+      "informationkiosk",
+      "softwareintegration",
+      "technologystrategy",
+      "userexperience&userinterface",
+      "webapp"
+    ]
+  },
+  {
+    "id": 286,
+    "partner": "Humane Animal Rescue",
+    "year": 2026,
+    "course": [
+      "67-373"
+    ],
+    "representatives": [
+      "Claire Baer",
+      "Corey Runyan"
+    ],
+    "students": [
+      "Nick Jitjang",
+      "Misty Fan",
+      "Scarlett Huang"
+    ],
+    "desc": "Humane Animal Rescue of Pittsburgh (HARP) is a nonprofit organization dedicated to animal welfare through adoption services, veterinary care, wildlife rehabilitation, and community education. Our team designed and developed a visitor-facing kiosk interface that streamlines access to adoption information, highlights available animals, and supports engagement with volunteering, fostering, and donations. The project improves the visitor experience by providing clear, consistent information, reducing repetitive staff interactions, and increasing opportunities for community involvement.",
+    "logo": "assets/img/project_logos/spring2026/13.png",
+    "pdf": "assets/img/project_pdfs/spring2026/13.pdf",
+    "sdg": [
+      "goodhealthandwellbeing",
+      "sustainablecitiesandcommunities"
+    ],
+    "tech": [
+      "api",
+      "informationkiosk",
+      "softwareintegration",
+      "technologystrategy",
+      "userexperience&userinterface",
+      "webapp"
+    ]
+  },
+  {
+    "id": 287,
+    "partner": "Industrial Arts Workshop",
+    "year": 2026,
+    "course": [
+      "67-373"
+    ],
+    "representatives": [
+      "Gretchen Kearney",
+      "Maura Bainbridge",
+      "Taylor Crowl"
+    ],
+    "students": [
+      "Sophia Zhu",
+      "Cici Ge",
+      "Bo Xie"
+    ],
+    "desc": "The Industrial Arts Workshop (IAW) is a Pittsburgh-based nonprofit that empowers high school students in the Hazelwood community through hands-on welding, sculpture, and metal fabrication education as a pathway to workforce readiness and career development. The student team evaluated and implemented Neon One, a nonprofit-specific CRM platform, to replace IAW's fragmented patchwork of spreadsheets and disconnected tools in order to deliver a fully configured system with migrated donor data and an executive dashboard. This work centralizes IAW's fundraising operations and establishes a scalable donor stewardship infrastructure to support the organization's capital campaign and long-term growth goals.",
+    "logo": "assets/img/project_logos/spring2026/14.jpg",
+    "pdf": "assets/img/project_pdfs/spring2026/14.pdf",
+    "sdg": [
+      "qualityeducation",
+      "industryinnovationandinfrastructure"
+    ],
+    "tech": [
+      "customerrelationshipmanagementsystem",
+      "databasesolution",
+      "technologystrategy"
+    ]
+  },
+  {
+    "id": 288,
+    "partner": "Innovation Institute for Tomorrow",
+    "year": 2026,
+    "course": [
+      "67-373"
+    ],
+    "representatives": [
+      "Tim Heffernan"
+    ],
+    "students": [
+      "Muskan Mankikar",
+      "Martin Jimenez",
+      "Aditi Agni"
+    ],
+    "desc": "Innovation Institute for Tomorrow is a 501(c)(3) education nonprofit located in Franklin, Pennsylvania with the goal of providing sustainable, world-class STEM education experiences to all students in an effort to prepare them for 21st century careers. We are developing a new AI program including modularized AI content based on industry relevant topics and practical, tangible projects that students can have fun doing. This adds value by teaching students to work with AI efficiently and getting them ready for higher education and the workforce. Additionally, this is crucial for II4T as they currently do not have any AI curriculum or resources in place to develop this program on their own.",
+    "logo": "assets/img/project_logos/spring2026/15.jpg",
+    "pdf": "assets/img/project_pdfs/spring2026/15.pdf",
+    "sdg": [
+      "qualityeducation"
+    ],
+    "tech": [
+      "artificialintelligence&machinelearning"
+    ]
+  },
+  {
+    "id": 289,
+    "partner": "MCG Jazz",
+    "year": 2026,
+    "course": [
+      "67-373"
+    ],
+    "representatives": [
+      "Marty Ashby",
+      "Mark Jackovic",
+      "Natalie Larsen"
+    ],
+    "students": [
+      "Pavlo Deynega",
+      "Streak Honey",
+      "Wesley Kane",
+      "Raymond Welgosh"
+    ],
+    "desc": "MCG Jazz preserves and celebrates the legacy of jazz through live performances, Grammy-winning recordings, and a decades-deep archive of oral histories, concert records, and CD production material that has been largely inaccessible outside the institutional memory of its staff. The CMU IS students built an AI-powered archive search tool on AWS, paired with an admin portal and self-service ingestion pipeline, that lets users ask natural language questions about the archive and receive cited, grounded answers. The new tool makes MCG's archive searchable for the first time, giving educators, researchers, and staff direct access to decades of jazz history and giving MCG a sustainable way to expand the archive.",
+    "logo": "assets/img/project_logos/spring2026/16.png",
+    "pdf": "assets/img/project_pdfs/spring2026/16.pdf",
+    "sdg": [
+      "qualityeducation",
+      "sustainablecitiesandcommunities"
+    ],
+    "tech": [
+      "api",
+      "artificialintelligence&machinelearning",
+      "dataanalytics",
+      "databasesolution",
+      "informationsecurity&risk",
+      "optimizationalgorithms",
+      "softwareintegration",
+      "userexperience&userinterface",
+      "webapp"
+    ]
+  },
+  {
+    "id": 290,
+    "partner": "Mental Health Metrics",
+    "year": 2026,
+    "course": [
+      "67-373"
+    ],
+    "representatives": [
+      "Cassie Ruane",
+      "Stephen Christian-Michaels",
+      "Jack Patzer"
+    ],
+    "students": [
+      "Megha Jasti",
+      "Sofia Yu",
+      "Jasmine Shi"
+    ],
+    "desc": "Mental Health Metrics aims to improve schizophrenic episode relapse prediction to better treat and rehabilitate people with schizophrenia. The CMU IS team developed a minimum viable product to conduct automated analysis on patient data using a proprietary algorithm. This solution provides scheduled patient updates regarding relapse risk to their clinicians, preventing schizophrenic relapses and reducing cost of mental health treatment.",
+    "logo": "assets/img/project_logos/spring2026/17.png",
+    "pdf": "assets/img/project_pdfs/spring2026/17.pdf",
+    "sdg": [
+      "goodhealthandwellbeing"
+    ],
+    "tech": [
+      "api",
+      "dataanalytics",
+      "userexperience&userinterface"
+    ]
+  },
+  {
+    "id": 291,
+    "partner": "Monte Verde Institute",
+    "year": 2026,
+    "course": [
+      "67-373"
+    ],
+    "representatives": [
+      "Fern Perkins",
+      "Alexandra Paniagua"
+    ],
+    "students": [
+      "Aidan Plummer",
+      "Alondra Robles",
+      "Anna Shi",
+      "Nihitha Sunil"
+    ],
+    "desc": "The Monteverde Institute (MVI) is a nonprofit educational research organization located in Costa Rica whose mission is to promote social, ecological and economic sustainability through academic programs, community engagement, and research. Our team contributed to strategic website design by implementing SEO analytics and optimization changes as well as creating a streamlined data pipeline with a dashboard and visualizations. Our work improves MVI's search engine visibility and clearly communicates their impact to attract greater engagement and expand the reach of their work.",
+    "logo": "assets/img/project_logos/spring2026/18.png",
+    "pdf": "assets/img/project_pdfs/spring2026/18.pdf",
+    "sdg": [
+      "cleanwaterandsanitation",
+      "decentworkandeconomicgrowth",
+      "sustainablecitiesandcommunities",
+      "responsibleconsumptionandproduction",
+      "climateaction",
+      "lifeonland"
+    ],
+    "tech": [
+      "dataanalytics",
+      "databasesolution",
+      "searchengineoptimization",
+      "userexperience&userinterface"
+    ]
+  },
+  {
+    "id": 292,
+    "partner": "Open Up",
+    "year": 2026,
+    "course": [
+      "67-373"
+    ],
+    "representatives": [
+      "Tessa Karel",
+      "Karryn Lintelman"
+    ],
+    "students": [
+      "Alicia Chen",
+      "Adam Sultan",
+      "Holly Wang"
+    ],
+    "desc": "Open Up is a nonprofit organization that promotes well-being through movement and mindfulness education, centering people with disabilities. The CMU team worked with Open Up to centralize participant data and streamline data analysis by integrating their waiver form with their existing CRM system and creating dynamic data dashboards. This project helps Open Up use participant data more effectively, reduce manual administrative work, and dedicate more time to advancing its mission.",
+    "logo": "assets/img/project_logos/spring2026/19.png",
+    "pdf": "assets/img/project_pdfs/spring2026/19.pdf",
+    "sdg": [
+      "goodhealthandwellbeing",
+      "reducedinequalities"
+    ],
+    "tech": [
+      "customerrelationshipmanagementsystem",
+      "dataanalytics",
+      "softwareintegration",
+      "technologystrategy"
+    ]
+  },
+  {
+    "id": 293,
+    "partner": "Radiant Hall Studios",
+    "year": 2026,
+    "course": [
+      "67-373"
+    ],
+    "representatives": [
+      "Marina Balko",
+      "Shanae Phillips"
+    ],
+    "students": [
+      "Jordan Fon Sing",
+      "Opally Taebunyanuphap",
+      "Cheyu Tu"
+    ],
+    "desc": "Radiant Hall Studios supports artists by providing shared studio space and a collaborative creative community. Our team improved two core administrative workflows: the waitlist management system and the resource reservation process. We built a Google Forms and Google Sheets-based system that automatically routes new inquiries into a working waitlist, flags duplicate entries, and supports priority-based sorting for staff review, and introduced YouCanBookMe to replace email-based scheduling with a streamlined self-service system — making Radiant Hall's operations more organized, efficient, and scalable.",
+    "logo": "assets/img/project_logos/spring2026/20.jpeg",
+    "pdf": "assets/img/project_pdfs/spring2026/20.pdf",
+    "sdg": [
+      "reducedinequalities",
+      "sustainablecitiesandcommunities"
+    ],
+    "tech": [
+      "databasesolution",
+      "softwareintegration",
+      "technologystrategy",
+      "userexperience&userinterface"
+    ]
+  },
+  {
+    "id": 294,
+    "partner": "River Art Works",
+    "year": 2026,
+    "course": [
+      "67-373"
+    ],
+    "representatives": [
+      "Jane Altman"
+    ],
+    "students": [
+      "Eunice Lee",
+      "Ana Fontán",
+      "Preeya Kirani"
+    ],
+    "desc": "River Art Works is a Pennsylvania-based nonprofit dedicated to advancing creativity and career development through the arts, operating programs such as ArtTek for Teens and the Greater Westmoreland Arts Coalition (GWAC), a coalition of 16 regional leaders unified around artistic development in Westmoreland County. The student project worked to transform and rebuild the GWAC website and implement a fully functional artist directory on WordPress, featuring tiered membership listings, searchable filters, and a simplified backend dashboard for Jane to manage independently. This modernized GWAC's digital presence and established a sustainable, revenue-generating platform that connects local artists with the broader community.",
+    "logo": "assets/img/project_logos/spring2026/21.png",
+    "pdf": "assets/img/project_pdfs/spring2026/21.pdf",
+    "sdg": [
+      "qualityeducation",
+      "decentworkandeconomicgrowth",
+      "industryinnovationandinfrastructure",
+      "reducedinequalities"
+    ],
+    "tech": [
+      "api",
+      "databasesolution",
+      "mobileapp",
+      "socialmedia",
+      "softwareintegration",
+      "technologystrategy",
+      "userexperience&userinterface",
+      "webapp"
+    ]
+  },
+  {
+    "id": 295,
+    "partner": "Sewickley Community Ctr",
+    "year": 2026,
+    "course": [
+      "67-373"
+    ],
+    "representatives": [
+      "Robert Patterson Jr."
+    ],
+    "students": [
+      "Tor Taepaisitphongse",
+      "Zachary Fan",
+      "Lucas Hazard"
+    ],
+    "desc": "Sewickley Community Center (SCC) is a nonprofit organization dedicated to providing inclusive recreational, educational, and community-building programs for residents in the Sewickley area. Our team analyzed SCC's existing technology stack and operational workflows, then designed and implemented process improvements, system integrations, and a technology adoption framework to streamline data management and payment reconciliation. As a result, SCC is positioned to reduce administrative burden, improve data accuracy and reporting, and establish a scalable, sustainable foundation for future technology use and organizational growth.",
+    "logo": "assets/img/project_logos/spring2026/22.png",
+    "pdf": "assets/img/project_pdfs/spring2026/22.pdf",
+    "sdg": [
+      "zerohunger",
+      "qualityeducation"
+    ],
+    "tech": [
+      "api",
+      "customerrelationshipmanagementsystem",
+      "informationsecurity&risk",
+      "softwareintegration",
+      "technologystrategy"
+    ]
+  },
+  {
+    "id": 296,
+    "partner": "Sewickley Public Library",
+    "year": 2026,
+    "course": [
+      "67-373"
+    ],
+    "representatives": [
+      "Richelle Klug"
+    ],
+    "students": [
+      "Yuki Ma",
+      "Jonathan Gu",
+      "Cass Ma"
+    ],
+    "desc": "Sewickley Public Library is a community hub serving 34,000+ annual program attendees with a mission to provide free access to informational, educational, cultural, and recreational resources for the greater Quaker Valley community. Our team built a centralized Monday.com event planning workspace and a connected Monday.com to Excel to Figma newsletter generation pipeline, consolidating event planning from 8 tools across 4 communication channels down to a single platform. The result is a unified source of truth for all three departments that cuts repetitive data entry, reduces formatting errors, and frees the Communications Head from administrative overhead — enabling SPL staff to spend more time on programming and community engagement.",
+    "logo": "assets/img/project_logos/spring2026/23.png",
+    "pdf": "assets/img/project_pdfs/spring2026/23.pdf",
+    "sdg": [
+      "goodhealthandwellbeing",
+      "qualityeducation",
+      "genderequality",
+      "reducedinequalities",
+      "peacejusticeandstronginstitutions"
+    ],
+    "tech": [
+      "databasesolution",
+      "softwareintegration",
+      "technologystrategy",
+      "userexperience&userinterface"
+    ]
+  },
+  {
+    "id": 297,
+    "partner": "Sheraden Community Council",
+    "year": 2026,
+    "course": [
+      "67-373"
+    ],
+    "representatives": [
+      "Jonathan Alexander"
+    ],
+    "students": [
+      "Annabelle Wang",
+      "Diana Cano",
+      "Jonathan Lai"
+    ],
+    "desc": "Sheraden Community Council is a volunteer-led organization that focuses on improving the quality of life in Sheraden. The student team created a membership tracking system that collects information on community members' contact information and volunteer hours. This allowed the organization to make outreach efforts to members and have a quantifiable way of tracking engagement in the organization and, ultimately, in the community, allowing for more discussion and interaction within the community.",
+    "logo": "assets/img/project_logos/spring2026/24.png",
+    "pdf": "assets/img/project_pdfs/spring2026/24.pdf",
+    "sdg": [
+      "goodhealthandwellbeing",
+      "sustainablecitiesandcommunities"
+    ],
+    "tech": [
+      "dataanalytics",
+      "databasesolution",
+      "informationkiosk",
+      "userexperience&userinterface"
+    ]
+  },
+  {
+    "id": 298,
+    "partner": "Sweetwater Center for the Arts",
+    "year": 2026,
+    "course": [
+      "67-373"
+    ],
+    "representatives": [
+      "Christine Brondyke",
+      "Liana Agnew"
+    ],
+    "students": [
+      "James Lee",
+      "Ted Gershon",
+      "Stephanie Reed",
+      "Sunny Guo"
+    ],
+    "desc": "Sweetwater Center for the Arts is a nonprofit organization dedicated to making the arts accessible through education, exhibitions, and performance programming for communities across the greater Pittsburgh region. The CMU IS student team designed and built a custom WordPress website for the Sweetwater Artist Member Initiative (SAMI), a new membership program that provides participating artists with studio access, professional development, and exhibition opportunities. This website establishes SAMI's public presence ahead of its fall launch, enabling prospective artists to learn about membership benefits, submit applications through SlideRoom, and engage more deeply with the Sweetwater community.",
+    "logo": "assets/img/project_logos/spring2026/25.jpg",
+    "pdf": "assets/img/project_pdfs/spring2026/25.pdf",
+    "sdg": [
+      "qualityeducation",
+      "decentworkandeconomicgrowth",
+      "sustainablecitiesandcommunities"
+    ],
+    "tech": [
+      "userexperience&userinterface",
+      "webapp"
+    ]
+  },
+  {
+    "id": 299,
+    "partner": "Thick But Fit Crew",
+    "year": 2026,
+    "course": [
+      "67-373"
+    ],
+    "representatives": [
+      "Diana Byas"
+    ],
+    "students": [
+      "Mandi Niu",
+      "Samhitha Duggirala",
+      "Arianna Martinelli"
+    ],
+    "desc": "Thick But Fit is a women's fitness gym in East McKeesport, Pittsburgh, whose mission is to create a supportive community that helps women, primarily aged 50 and above, build healthier lifestyles and achieve their fitness goals. Our team designed and implemented a structured online fitness challenge, including Skool modules, a data tracking system, and a targeted marketing strategy to support participant engagement and program management. This project enabled the client to expand beyond in-person services, improve operational efficiency, and create a sustainable, scalable solution to maintain member engagement and revenue during seasonal downturns.",
+    "logo": "assets/img/project_logos/spring2026/26.png",
+    "pdf": "assets/img/project_pdfs/spring2026/26.pdf",
+    "sdg": [
+      "goodhealthandwellbeing"
+    ],
+    "tech": [
+      "dataanalytics",
+      "databasesolution",
+      "socialmedia",
+      "webapp"
+    ]
+  },
+  {
+    "id": 300,
+    "partner": "Unity Brass",
+    "year": 2026,
+    "course": [
+      "67-373"
+    ],
+    "representatives": [
+      "Barbara Folb"
+    ],
+    "students": [
+      "Ruhani Patel",
+      "Zoe Robinson",
+      "Rong Yuan"
+    ],
+    "desc": "Unity Brass is a Pittsburgh-based brass ensemble founded in 2018 with a mission to share accessible, uplifting music with the community. Our team redesigned and implemented a new website that improved the organization's professional representation while streamlining how event and media information is managed using tools like Google Sheets. The project increased efficiency, reduced manual work, and made it easier for both the ensemble and its audience to access clear, organized, and up-to-date information.",
+    "logo": "assets/img/project_logos/spring2026/27.jpeg",
+    "pdf": "assets/img/project_pdfs/spring2026/27.pdf",
+    "sdg": [
+      "goodhealthandwellbeing"
+    ],
+    "tech": [
+      "technologystrategy",
+      "userexperience&userinterface"
+    ]
+  },
+  {
+    "id": 301,
+    "partner": "USCT Pension Files",
+    "year": 2026,
+    "course": [
+      "67-373"
+    ],
+    "representatives": [
+      "Dr. Edda L. Fields-Black"
+    ],
+    "students": [
+      "Amiya Chokhawala",
+      "Angela Kim",
+      "Cathy Wang",
+      "Felicia Zhang"
+    ],
+    "desc": "The USCT Pension Files Project aims to recover and make accessible the family histories of United States Colored Troops (USCT) veterans by transforming handwritten Civil War pension files into searchable historical resources. Our team developed a structured workflow that combines AI-assisted transcription, community validation through Zooniverse, and a prototype search interface to organize and present this data. As a result, the project demonstrates a scalable approach to processing pension files while preserving historical accuracy and enabling broader access for historians, genealogists, and descendant communities.",
+    "logo": "assets/img/project_logos/spring2026/28.jpg",
+    "pdf": "assets/img/project_pdfs/spring2026/28.pdf",
+    "sdg": [
+      "qualityeducation",
+      "industryinnovationandinfrastructure",
+      "reducedinequalities"
+    ],
+    "tech": [
+      "api",
+      "artificialintelligence&machinelearning",
+      "databasesolution",
+      "softwareintegration",
+      "userexperience&userinterface"
+    ]
+  },
+  {
+    "id": 302,
+    "partner": "Wilkinsburg Land Bank",
+    "year": 2026,
+    "course": [
+      "67-373"
+    ],
+    "representatives": [
+      "Renee Dolney"
+    ],
+    "students": [
+      "Luciana Requena",
+      "Edison Dao",
+      "Annie Zhang"
+    ],
+    "desc": "The Wilkinsburg Land Bank (WLB) works to transform abandoned, tax-delinquent, and vacant properties into homes for new owners, fostering racial and economic equity while enabling economic mobility for Wilkinsburg renters. Our team developed a data scraper and a unified parcel dataset in Google Sheets, along with a user-friendly AppSheet interface featuring an explainable prioritization scoring framework and interactive mapping tools. This project enables WLB to make faster, more transparent decisions and strengthens its ability to secure funding through clear data and visualizations.",
+    "logo": "assets/img/project_logos/spring2026/29.png",
+    "pdf": "assets/img/project_pdfs/spring2026/29.pdf",
+    "sdg": [
+      "goodhealthandwellbeing",
+      "qualityeducation",
+      "decentworkandeconomicgrowth",
+      "industryinnovationandinfrastructure",
+      "reducedinequalities",
+      "sustainablecitiesandcommunities",
+      "partnershipsforthegoals"
+    ],
+    "tech": [
+      "api",
+      "dataanalytics",
+      "databasesolution",
+      "mobileapp",
+      "userexperience&userinterface"
+    ]
   }
 ]
