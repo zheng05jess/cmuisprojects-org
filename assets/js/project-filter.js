@@ -15,7 +15,7 @@ $(document).ready(function () {
     "cleanenergy": "#F3890D",
     "workandeconomicgrowth": "#A6192E",
     "industryinnovationinfrastructure": "#5FA862",
-    "reducedinequality": "#F43E25",
+    "reduceinequality": "#F43E25",
     "sustainablecities": "#544E48",
     "responsibleconsumption": "#6c9300",
     "climateaction": "#F30D89",
@@ -37,7 +37,9 @@ $(document).ready(function () {
     "technologystrategy": "#F43E25",
     "userexperience": "#544E48",
     "webapp": "#B0E320",
-    "searchengingeoptimization": "#F30D89"
+    "searchengineoptimization": "#F30D89",
+    "optimizationalgorithms": "#FF6B35",
+    "artificialintelligence&machinelearning": "#9B59B6"
   };
  // Function to collect selected checkbox values
  function getSelectedCheckboxValues(name) {

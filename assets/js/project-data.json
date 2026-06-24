@@ -5510,7 +5510,7 @@
       "climateaction"
     ],
     "tech": [
-      "searchengingeoptimization"
+      "searchengineoptimization"
     ]
   },
   {
@@ -6049,1165 +6049,482 @@
     "id": 237,
     "partner": "Achieva",
     "year": 2025,
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Ryan Jackson"
-    ],
-    "students": [
-      "Sophie Feng",
-      "Cathy Xu",
-      "Sofian Syed"
-    ],
-    "desc": "Achieva is a nonprofit organization dedicated to supporting and empowering people with disabilities and their families across Western Pennsylvania. The CMU IS student team developed a fully functional web application to digitize Achieva’s paper-based employee recognition program, enabling staff to issue, track, and redeem Achieva Bucks through a secure and intuitive platform. This system significantly streamlines administrative workload, improves access to rewards for all employees, and enhances transparency and efficiency across the organization’s internal recognition process.",
+    "course": ["67-373"],
+    "representatives": ["Ryan Jackson"],
+    "students": ["Sophie Feng", "Cathy Xu", "Sofian Syed"],
+    "desc": "Achieva is a nonprofit organization dedicated to supporting and empowering people with disabilities and their families across Western Pennsylvania. The CMU IS student team developed a fully functional web application to digitize Achieva's paper-based employee recognition program, enabling staff to issue, track, and redeem Achieva Bucks through a secure and intuitive platform. This system significantly streamlines administrative workload, improves access to rewards for all employees, and enhances transparency and efficiency across the organization's internal recognition process.",
     "logo": "assets/img/project_logos/spring2025/1.png",
     "pdf": "assets/img/project_pdfs/spring2025/1.pdf",
-    "sdg": [
-      "qualityeducation",
-      "reducedinequalities"
-    ],
-    "tech": [
-      "api",
-      "technologystrategy",
-      "userexperience&userinterface",
-      "webapp"
-    ]
+    "sdg": ["qualityeducation", "reduceinequality"],
+    "tech": ["api", "technologystrategy", "userexperience", "webapp"]
   },
   {
     "id": 238,
     "partner": "Assemble",
     "year": 2025,
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Nina Barbuto",
-      "Melida Hermandez",
-      "Abigail Sanders",
-      "Megan Waller"
-    ],
-    "students": [
-      "Yu Fang",
-      "Yuting Wang",
-      "Chaeil Yun"
-    ],
-    "desc": "Assemble is a nonprofit organization dedicated to advancing equitable access to STEAM education for youth in Pittsburgh. Our team developed a centralized dashboard system that automated the collection, organization, and visualization of program feedback using Google Forms, Sheets, and Looker Studio. This project streamlined Assemble’s data analysis processes, empowered staff with real-time insights, and strengthened the organization’s ability to measure and communicate program impact.",
+    "course": ["67-373"],
+    "representatives": ["Nina Barbuto", "Melida Hermandez", "Abigail Sanders", "Megan Waller"],
+    "students": ["Yu Fang", "Yuting Wang", "Chaeil Yun"],
+    "desc": "Assemble is a nonprofit organization dedicated to advancing equitable access to STEAM education for youth in Pittsburgh. Our team developed a centralized dashboard system that automated the collection, organization, and visualization of program feedback using Google Forms, Sheets, and Looker Studio. This project streamlined Assemble's data analysis processes, empowered staff with real-time insights, and strengthened the organization's ability to measure and communicate program impact.",
     "logo": "assets/img/project_logos/spring2025/2.png",
     "pdf": "assets/img/project_pdfs/spring2025/2.pdf",
-    "sdg": [
-      "goodhealthandwellbeing",
-      "reducedinequalities",
-      "responsibleconsumptionandproduction",
-      "peacejusticeandstronginstitutions",
-      "partnershipsforthegoals"
-    ],
-    "tech": [
-      "databasesolution",
-      "geographicinformationsystems",
-      "informationsecurity&risk",
-      "softwareintegration",
-      "technologystrategy",
-      "userexperience&userinterface",
-      "webapp"
-    ]
+    "sdg": ["promotehealth", "reduceinequality", "responsibleconsumption", "peaceandinclusion", "partnershipsforgoals"],
+    "tech": ["databasesolution", "geographicinformationsystem", "informationsecurityrisk", "softwareintegration", "technologystrategy", "userexperience", "webapp"]
   },
   {
     "id": 239,
     "partner": "Battle of Homestead Foundation",
     "year": 2025,
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Lawrence McCullough"
-    ],
-    "students": [
-      "Terry Li",
-      "Emily Yu",
-      "Patrice Bortey"
-    ],
+    "course": ["67-373"],
+    "representatives": ["Lawrence McCullough"],
+    "students": ["Terry Li", "Emily Yu", "Patrice Bortey"],
     "desc": "The Battle of Homestead Foundation is dedicated to preserving and promoting the history and ongoing significance of labor struggles, particularly the historic 1892 Homestead Strike. Our student team developed a self-guided digital tour using a no-code WordPress website to educate visitors on key Pittsburgh labor history events and sites.",
     "logo": "assets/img/project_logos/spring2025/3.png",
     "pdf": "assets/img/project_pdfs/spring2025/3.pdf",
-    "sdg": [
-      "goodhealthandwellbeing"
-    ],
-    "tech": [
-      "dataanalytics",
-      "searchengineoptimization",
-      "userexperience&userinterface",
-      "webapp"
-    ]
+    "sdg": ["promotehealth"],
+    "tech": ["dataanalytics", "searchengineoptimization", "userexperience", "webapp"]
   },
   {
     "id": 240,
     "partner": "Brandworth LLC",
     "year": 2025,
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Jeff Hedrich",
-      "Jarred Kalina"
-    ],
-    "students": [
-      "Mia Li",
-      "Saanika Chauk",
-      "Jorge Gracia Viveros"
-    ],
+    "course": ["67-373"],
+    "representatives": ["Jeff Hedrich", "Jarred Kalina"],
+    "students": ["Mia Li", "Saanika Chauk", "Jorge Gracia Viveros"],
     "desc": "BrandWorth LLC is a branding firm that specializes in helping small and medium-sized private companies evaluate and place a monetary value on their brand. The student project worked to create a centralized database solution in Airtable that normalizes survey inputs and automates the valuation algorithm processes. This ultimately streamlined the data collection and valuation process in order to reduce manual effort and deliver faster, more accurate brand valuations to their clients.",
     "logo": "assets/img/project_logos/spring2025/4.png",
     "pdf": "assets/img/project_pdfs/spring2025/4.pdf",
-    "sdg": [
-      "goodhealthandwellbeing",
-      "reducedinequalities",
-      "lifeonland",
-      "peacejusticeandstronginstitutions",
-      "partnershipsforthegoals"
-    ],
-    "tech": [
-      "api",
-      "dataanalytics",
-      "databasesolution",
-      "informationsecurity&risk",
-      "softwareintegration",
-      "technologystrategy",
-      "userexperience&userinterface",
-      "webapp"
-    ]
+    "sdg": ["promotehealth", "reduceinequality", "lifeonland", "peaceandinclusion", "partnershipsforgoals"],
+    "tech": ["api", "dataanalytics", "databasesolution", "informationsecurityrisk", "softwareintegration", "technologystrategy", "userexperience", "webapp"]
   },
   {
     "id": 241,
     "partner": "Bridging the CHASM",
     "year": 2025,
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Dr. Edwin Q. Ravano"
-    ],
-    "students": [
-      "Best Pantusen",
-      "Eichel Choi",
-      "Jacky Gao"
-    ],
+    "course": ["67-373"],
+    "representatives": ["Dr. Edwin Q. Ravano"],
+    "students": ["Best Pantusen", "Eichel Choi", "Jacky Gao"],
     "desc": "Bridging the CHASM is a new initiative affiliated with Street Medicine at Pitt (The University of Pittsburgh), focused on improving healthcare coordination for homeless individuals through better communication across medical providers, outreach teams, and government services. Our team developed a centralized web-mobile application that enables secure data entry and retrieval of patient encounters using role-based access control, real-time search, and geolocation tracking. This platform reduces data fragmentation, streamlines communication, and supports more effective and continuous care for vulnerable populations.",
     "logo": "assets/img/project_logos/spring2025/5.png",
     "pdf": "assets/img/project_pdfs/spring2025/5.pdf",
-    "sdg": [
-      "qualityeducation",
-      "reducedinequalities",
-      "peacejusticeandstronginstitutions"
-    ],
-    "tech": [
-      "customerrelationshipmanagementsystem",
-      "softwareintegration",
-      "technologystrategy",
-      "userexperience&userinterface"
-    ]
+    "sdg": ["qualityeducation", "reduceinequality", "peaceandinclusion"],
+    "tech": ["crm", "softwareintegration", "technologystrategy", "userexperience"]
   },
   {
     "id": 242,
     "partner": "Bruce Corporation",
     "year": 2025,
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Lillie Coney"
-    ],
-    "students": [
-      "Daniel Sung",
-      "Alanna Cao",
-      "Anuja Uppuluri"
-    ],
+    "course": ["67-373"],
+    "representatives": ["Lillie Coney"],
+    "students": ["Daniel Sung", "Alanna Cao", "Anuja Uppuluri"],
     "desc": "The 21st Century Green-Book Project is a nonprofit initiative under Bruce Corporation that aims to increase transparency around bias crimes and support victims through accessible reporting tools. Our team developed a web platform on Wix that connects users to appropriate bias crime reporting resources based on their location and demographic identities, along with multilingual support and educational content. This centralized directory empowers victims by making reporting more accessible, raises public awareness, and contributes to more accurate national data on racial bias and hate crimes.",
     "logo": "assets/img/project_logos/spring2025/6.png",
     "pdf": "assets/img/project_pdfs/spring2025/6.pdf",
-    "sdg": [
-      "goodhealthandwellbeing",
-      "genderequality",
-      "peacejusticeandstronginstitutions"
-    ],
-    "tech": [
-      "dataanalytics",
-      "userexperience&userinterface",
-      "webapp"
-    ]
+    "sdg": ["promotehealth", "genderequality", "peaceandinclusion"],
+    "tech": ["dataanalytics", "userexperience", "webapp"]
   },
   {
     "id": 243,
-    "partner": "Christopher’s Kitchen",
+    "partner": "Christopher's Kitchen",
     "year": 2025,
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Joan D-Alessandro",
-      "Kate McDermott"
-    ],
-    "students": [
-      "Jacob Franze",
-      "Nita Thaveesittikullarp",
-      "Gabriel Sha"
-    ],
-    "desc": "Christopher’s Kitchen is a nonprofit organization focused on providing food and drink to those who are in the hospital with their loved ones and cannot afford or provide it for themselves. Our group implemented a barcode-scanning mobile app, OrcaScan, together with a custom-built Google Sheet to calculate food donation price of incoming donations. This automation reduced manual data entry, allowing volunteers to spend more time directly supporting families in need.",
+    "course": ["67-373"],
+    "representatives": ["Joan D-Alessandro", "Kate McDermott"],
+    "students": ["Jacob Franze", "Nita Thaveesittikullarp", "Gabriel Sha"],
+    "desc": "Christopher's Kitchen is a nonprofit organization focused on providing food and drink to those who are in the hospital with their loved ones and cannot afford or provide it for themselves. Our group implemented a barcode-scanning mobile app, OrcaScan, together with a custom-built Google Sheet to calculate food donation price of incoming donations. This automation reduced manual data entry, allowing volunteers to spend more time directly supporting families in need.",
     "logo": "assets/img/project_logos/spring2025/7.png",
     "pdf": "assets/img/project_pdfs/spring2025/7.pdf",
-    "sdg": [
-      "goodhealthandwellbeing",
-      "qualityeducation",
-      "reducedinequalities"
-    ],
-    "tech": [
-      "api",
-      "databasesolution",
-      "informationsecurity&risk",
-      "softwareintegration",
-      "technologystrategy",
-      "userexperience&userinterface",
-      "webapp"
-    ]
+    "sdg": ["promotehealth", "qualityeducation", "reduceinequality"],
+    "tech": ["api", "databasesolution", "informationsecurityrisk", "softwareintegration", "technologystrategy", "userexperience", "webapp"]
   },
   {
     "id": 244,
     "partner": "CMU English Department",
     "year": 2025,
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Stephen Wittek"
-    ],
-    "students": [
-      "Anna Mathews",
-      "Luke Nalewajk",
-      "Lawrence Lee",
-      "Karen Gonzalez-Cifuentes"
-    ],
-    "desc": "The DREaM web app previously operated successfully until a dependency issue forced the application to crash and remain offline. The project team is building upon the foundations worked on by the previous year’s 373 team that made DREaM work as well as accessible on a local level. The current team is looking to bring DREaM online and hosted securely via HTTPS on the CMU Libraries’ server. Additionally, efforts will be made to enhance the user interface on DREaM, connecting DREaM to a CMU copy of Voyant Tools, as well as embedding analytical tools within the web application.",
+    "course": ["67-373"],
+    "representatives": ["Stephen Wittek"],
+    "students": ["Anna Mathews", "Luke Nalewajk", "Lawrence Lee", "Karen Gonzalez-Cifuentes"],
+    "desc": "The DREaM web app previously operated successfully until a dependency issue forced the application to crash and remain offline. The project team is building upon the foundations worked on by the previous year's 373 team that made DREaM work as well as accessible on a local level. The current team is looking to bring DREaM online and hosted securely via HTTPS on the CMU Libraries' server. Additionally, efforts will be made to enhance the user interface on DREaM, connecting DREaM to a CMU copy of Voyant Tools, as well as embedding analytical tools within the web application.",
     "logo": "assets/img/project_logos/spring2025/8.png",
     "pdf": "assets/img/project_pdfs/spring2025/8.pdf",
-    "sdg": [
-      "qualityeducation",
-      "genderequality",
-      "reducedinequalities"
-    ],
-    "tech": [
-      "socialmedia",
-      "technologystrategy",
-      "userexperience&userinterface"
-    ]
+    "sdg": ["qualityeducation", "genderequality", "reduceinequality"],
+    "tech": ["socialmediapage", "technologystrategy", "userexperience"]
   },
   {
     "id": 245,
     "partner": "CMU Office of Disability Resources",
     "year": 2025,
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Catherine Getchell"
-    ],
-    "students": [
-      "Amanda Zhu",
-      "Anika Sharma",
-      "Gabriel Aguirre",
-      "Luke Blackwell"
-    ],
+    "course": ["67-373"],
+    "representatives": ["Catherine Getchell"],
+    "students": ["Amanda Zhu", "Anika Sharma", "Gabriel Aguirre", "Luke Blackwell"],
     "desc": "The Office of Disability Resources at Carnegie Mellon University supports students with disabilities by providing a wide range of accommodations and services, including proctoring over 4,000 exams each semester for those with testing needs. Our team developed a custom Google Script-based scheduling tool to automate the complex process of assigning 75+ exam proctors to their shifts during finals week, replacing a previously manual and error-prone workflow. The solution has already saved the office significant time and effort and will continue to streamline scheduling for future exam cycles.",
     "logo": "assets/img/project_logos/spring2025/9.png",
     "pdf": "assets/img/project_pdfs/spring2025/9.pdf",
-    "sdg": [
-      "qualityeducation"
-    ],
-    "tech": [
-      "api",
-      "optimizationalgorithms",
-      "softwareintegration",
-      "technologystrategy"
-    ]
+    "sdg": ["qualityeducation"],
+    "tech": ["api", "optimizationalgorithms", "softwareintegration", "technologystrategy"]
   },
   {
     "id": 246,
     "partner": "CORE (Ctr for Organ Recovery & Education)",
     "year": 2025,
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Bill DiPlacido"
-    ],
-    "students": [
-      "Adam Bournes",
-      "Matt Cadena",
-      "Ethan Tan"
-    ],
-    "desc": "The Center for Organ Recovery & Education (CORE) is a nonprofit dedicated to saving and healing lives through organ, tissue, and cornea donation. Our team developed a secure, role-based WordPress portal that automates reimbursement requests for surgeons, funeral homes, and per diem staff. The new system has eliminated manual processing steps, saving the finance team over 100 hours per week and dramatically improving transparency and turnaround times for CORE’s partners.",
+    "course": ["67-373"],
+    "representatives": ["Bill DiPlacido"],
+    "students": ["Adam Bournes", "Matt Cadena", "Ethan Tan"],
+    "desc": "The Center for Organ Recovery & Education (CORE) is a nonprofit dedicated to saving and healing lives through organ, tissue, and cornea donation. Our team developed a secure, role-based WordPress portal that automates reimbursement requests for surgeons, funeral homes, and per diem staff. The new system has eliminated manual processing steps, saving the finance team over 100 hours per week and dramatically improving transparency and turnaround times for CORE's partners.",
     "logo": "assets/img/project_logos/spring2025/10.png",
     "pdf": "assets/img/project_pdfs/spring2025/10.pdf",
-    "sdg": [
-      "nopoverty",
-      "zerohunger",
-      "goodhealthandwellbeing",
-      "qualityeducation",
-      "decentworkandeconomicgrowth",
-      "industryinnovationandinfrastructure",
-      "reducedinequalities",
-      "sustainablecitiesandcommunities",
-      "climateaction",
-      "peacejusticeandstronginstitutions",
-      "partnershipsforthegoals"
-    ],
-    "tech": [
-      "api",
-      "databasesolution",
-      "geographicinformationsystems",
-      "softwareintegration",
-      "userexperience&userinterface",
-      "webapp"
-    ]
+    "sdg": ["nopoverty", "zerohunger", "promotehealth", "qualityeducation", "workandeconomicgrowth", "industryinnovationinfrastructure", "reduceinequality", "sustainablecities", "climateaction", "peaceandinclusion", "partnershipsforgoals"],
+    "tech": ["api", "databasesolution", "geographicinformationsystem", "softwareintegration", "userexperience", "webapp"]
   },
   {
     "id": 247,
     "partner": "CS Pathways (CMU)",
     "year": 2025,
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Ashley Patton"
-    ],
-    "students": [
-      "Emma Tong",
-      "Caroline Michalow",
-      "Jeffrey Zhang"
-    ],
-    "desc": "CS Pathways is a CMU-based nonprofit dedicated to expanding access to computer science and STEM education for underrepresented students. Our team redesigned their website in Cascade CMS to better communicate the organization’s mission, programs, and growing impact by creating clear, engaging, and up-to-date pages for their core initiatives. The new site improves user experience through a streamlined architecture, reduces staff workload with a comprehensive FAQ, and makes it easier for students and community partners to get involved.",
+    "course": ["67-373"],
+    "representatives": ["Ashley Patton"],
+    "students": ["Emma Tong", "Caroline Michalow", "Jeffrey Zhang"],
+    "desc": "CS Pathways is a CMU-based nonprofit dedicated to expanding access to computer science and STEM education for underrepresented students. Our team redesigned their website in Cascade CMS to better communicate the organization's mission, programs, and growing impact by creating clear, engaging, and up-to-date pages for their core initiatives. The new site improves user experience through a streamlined architecture, reduces staff workload with a comprehensive FAQ, and makes it easier for students and community partners to get involved.",
     "logo": "assets/img/project_logos/spring2025/11.png",
     "pdf": "assets/img/project_pdfs/spring2025/11.pdf",
-    "sdg": [
-      "genderequality",
-      "decentworkandeconomicgrowth"
-    ],
-    "tech": [
-      "databasesolution",
-      "softwareintegration",
-      "technologystrategy",
-      "userexperience&userinterface"
-    ]
+    "sdg": ["genderequality", "workandeconomicgrowth"],
+    "tech": ["databasesolution", "softwareintegration", "technologystrategy", "userexperience"]
   },
   {
     "id": 248,
     "partner": "Dottie",
     "year": 2025,
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Julie Wagner"
-    ],
-    "students": [
-      "Abby Chen",
-      "Bojun Li",
-      "Tracy Yang"
-    ],
+    "course": ["67-373"],
+    "representatives": ["Julie Wagner"],
+    "students": ["Abby Chen", "Bojun Li", "Tracy Yang"],
     "desc": "Dottie is a project supporting Type 1 Diabetes management, led by a client focused on empowering individuals and families through accessible health tools. Our team designed a wearable app that displays real-time glucose data, activity markers, and allows users to export 24-hour history as graphs. This tool increases visibility into glucose trends and provides users and caregivers with actionable insights for daily management.",
     "logo": "assets/img/project_logos/spring2025/12.png",
     "pdf": "assets/img/project_pdfs/spring2025/12.pdf",
-    "sdg": [
-      "goodhealthandwellbeing",
-      "industryinnovationandinfrastructure"
-    ],
-    "tech": [
-      "mobileapp",
-      "userexperience&userinterface"
-    ]
+    "sdg": ["promotehealth", "industryinnovationinfrastructure"],
+    "tech": ["mobapp", "userexperience"]
   },
   {
     "id": 249,
     "partner": "Dress for Success",
     "year": 2025,
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Tanya Vokes",
-      "Bridget McCoy"
-    ],
-    "students": [
-      "Sofia Reyes Franco",
-      "Alina Fang",
-      "Albert Lin"
-    ],
-    "desc": "Dress for Success Pittsburgh empowers women to achieve economic independence by providing professional attire, career development tools, and a support network.\n The IS team developed a comprehensive CRM handbook and cleaned duplicate records to improve the organization’s use of Salsa CRM.\n These efforts streamlined data management, reduced staff workload, and laid the foundation for more effective donor and client engagement.",
+    "course": ["67-373"],
+    "representatives": ["Tanya Vokes", "Bridget McCoy"],
+    "students": ["Sofia Reyes Franco", "Alina Fang", "Albert Lin"],
+    "desc": "Dress for Success Pittsburgh empowers women to achieve economic independence by providing professional attire, career development tools, and a support network.\n The IS team developed a comprehensive CRM handbook and cleaned duplicate records to improve the organization's use of Salsa CRM.\n These efforts streamlined data management, reduced staff workload, and laid the foundation for more effective donor and client engagement.",
     "logo": "assets/img/project_logos/spring2025/13.png",
     "pdf": "assets/img/project_pdfs/spring2025/13.pdf",
-    "sdg": [
-      "decentworkandeconomicgrowth"
-    ],
-    "tech": [
-      "databasesolution"
-    ]
+    "sdg": ["workandeconomicgrowth"],
+    "tech": ["databasesolution"]
   },
   {
     "id": 250,
     "partner": "Filipino American Association of Pgh",
     "year": 2025,
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Leilani Mears"
-    ],
-    "students": [
-      "Yiyao Wang",
-      "Tim Wang",
-      "Andrew Cheng"
-    ],
-    "desc": "The Filipino American Association of Pittsburgh is dedicated to promoting Filipino culture, supporting the local community, and fostering cross-cultural understanding. Our team developed a n enhanced membership intake system integrated with their WordPress website, automating processes like form submission, member record tracking, and email notifications. This project enhanced FAAP’s capacity to manage and grow its membership base efficiently, allowing them to better engage with their community.",
+    "course": ["67-373"],
+    "representatives": ["Leilani Mears"],
+    "students": ["Yiyao Wang", "Tim Wang", "Andrew Cheng"],
+    "desc": "The Filipino American Association of Pittsburgh is dedicated to promoting Filipino culture, supporting the local community, and fostering cross-cultural understanding. Our team developed a n enhanced membership intake system integrated with their WordPress website, automating processes like form submission, member record tracking, and email notifications. This project enhanced FAAP's capacity to manage and grow its membership base efficiently, allowing them to better engage with their community.",
     "logo": "assets/img/project_logos/spring2025/14.png",
     "pdf": "assets/img/project_pdfs/spring2025/14.pdf",
-    "sdg": [
-      "qualityeducation"
-    ],
-    "tech": [
-      "customerrelationshipmanagementsystem",
-      "databasesolution",
-      "socialmedia",
-      "technologystrategy",
-      "userexperience&userinterface",
-      "webapp"
-    ]
+    "sdg": ["qualityeducation"],
+    "tech": ["crm", "databasesolution", "socialmediapage", "technologystrategy", "userexperience", "webapp"]
   },
   {
     "id": 251,
     "partner": "Future Kings Mentoring, Inc.",
     "year": 2025,
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Sean Spencer",
-      "Terrell Galloway"
-    ],
-    "students": [
-      "Ben Condemi",
-      "E.j. Ezuma-Ngwu",
-      "Josh Washington"
-    ],
+    "course": ["67-373"],
+    "representatives": ["Sean Spencer", "Terrell Galloway"],
+    "students": ["Ben Condemi", "E.j. Ezuma-Ngwu", "Josh Washington"],
     "desc": "Future Kings Mentoring Inc. (FKM) strives to empower black male youth in the local-Pittsburgh area through leadership development, educational support, financial literacy, and STEAM exposure and to instill in them the values of life-long self-development and an education beyond high school. To assist FKM in achieving their mission, our team engaged in a comprehensive transition of the organization's data and workflows onto the non-profit edition of Salesforce. This resulted in novel, more-efficient processes wherein FKM can reference all of their organizational data, generate reports analyzing that data, and manage their relationships all in one place.",
     "logo": "assets/img/project_logos/spring2025/15.png",
     "pdf": "assets/img/project_pdfs/spring2025/15.pdf",
-    "sdg": [
-      "goodhealthandwellbeing",
-      "sustainablecitiesandcommunities"
-    ],
-    "tech": [
-      "api",
-      "databasesolution",
-      "softwareintegration"
-    ]
+    "sdg": ["promotehealth", "sustainablecities"],
+    "tech": ["api", "databasesolution", "softwareintegration"]
   },
   {
     "id": 252,
     "partner": "GLOW! With Dr. Row",
     "year": 2025,
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Dr Rowena Pingul Ravano"
-    ],
-    "students": [
-      "Evelynn Chen",
-      "Rosemary Yang",
-      "Sidney Ozcan"
-    ],
+    "course": ["67-373"],
+    "representatives": ["Dr Rowena Pingul Ravano"],
+    "students": ["Evelynn Chen", "Rosemary Yang", "Sidney Ozcan"],
     "desc": "GLOW! (Gratitude, Love, Optimism, Wellness) is dedicated to connecting, inspiring, elevating, and empowering women across generations. The team enhanced the breathing app to be more accessible and user-friendly. The site (https://dr-rows-555.com/) is now easier to navigate, translatable, and simple for Dr. Row to update.",
     "logo": "assets/img/project_logos/spring2025/16.png",
     "pdf": "assets/img/project_pdfs/spring2025/16.pdf",
-    "sdg": [
-      "genderequality",
-      "decentworkandeconomicgrowth",
-      "reducedinequalities"
-    ],
-    "tech": [
-      "customerrelationshipmanagementsystem",
-      "dataanalytics",
-      "softwareintegration",
-      "technologystrategy",
-      "userexperience&userinterface"
-    ]
+    "sdg": ["genderequality", "workandeconomicgrowth", "reduceinequality"],
+    "tech": ["crm", "dataanalytics", "softwareintegration", "technologystrategy", "userexperience"]
   },
   {
     "id": 253,
     "partner": "Greater Valley Community Services",
     "year": 2025,
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Anita Tillman"
-    ],
-    "students": [
-      "Eric Du",
-      "Eric Lin",
-      "John Crawshaw"
-    ],
+    "course": ["67-373"],
+    "representatives": ["Anita Tillman"],
+    "students": ["Eric Du", "Eric Lin", "John Crawshaw"],
     "desc": "Educating people about interactions with autistic individual. We created a online course using Wix with videos, readings, and quizzes. The project spreads knowledge about how to interact with autistic individuals to a wider groups by making the courses easily accessible and available to a wider public.",
     "logo": "assets/img/project_logos/spring2025/17.png",
     "pdf": "assets/img/project_pdfs/spring2025/17.pdf",
-    "sdg": [
-      "qualityeducation"
-    ],
-    "tech": [
-      "userexperience&userinterface",
-      "webapp"
-    ]
+    "sdg": ["qualityeducation"],
+    "tech": ["userexperience", "webapp"]
   },
   {
     "id": 254,
     "partner": "Hebron Community Center",
     "year": 2025,
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Jennifer Balkey"
-    ],
-    "students": [
-      "Thomas Xiao",
-      "Jessie Chen",
-      "Sophia Witt"
-    ],
+    "course": ["67-373"],
+    "representatives": ["Jennifer Balkey"],
+    "students": ["Thomas Xiao", "Jessie Chen", "Sophia Witt"],
     "desc": "Hebron Community Center (HCC) is a faith-based organization based in the Penn Hill neighborhood dedicated to providing a safe and inclusive environment for individuals from diverse backgrounds to foster belonging, unity, and personal growth. The CMU team enhanced HCC's existing Zoho One CRM by automating and streamlining the event check-in process, including waiver validation and payment verification, and utilizing Zoho One as the Database. This significantly reduced manual administrative tasks, increased financial accountability, and freed valuable time for staff to focus on community engagement and outreach.",
     "logo": "assets/img/project_logos/spring2025/18.png",
     "pdf": "assets/img/project_pdfs/spring2025/18.pdf",
-    "sdg": [
-      "qualityeducation"
-    ],
-    "tech": [
-      "customerrelationshipmanagementsystem",
-      "dataanalytics",
-      "databasesolution"
-    ]
+    "sdg": ["qualityeducation"],
+    "tech": ["crm", "dataanalytics", "databasesolution"]
   },
   {
     "id": 255,
     "partner": "Moonshot Project Team (CMU)",
     "year": 2025,
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Heather Jones"
-    ],
-    "students": [
-      "Fatou Gueye",
-      "Andrew Wang",
-      "Riya Kinny",
-      "Dhanya Shah"
-    ],
-    "desc": "Moonshot Mission Control is a cutting-edge research lab and command center in the CMU School of Computer Science’s Gates Center, with a mission to advance space exploration and robotics. They are currently working on the MoonRanger space project, which aims to explore lunar polar ice using an autonomous rover. The consulting team developed a cloud-based archival and backup process while also enhancing the functionality, scalability, and usability of the mission control software’s database used to monitor and command space experiments. These improvements will enable more efficient system operations and ensure the software’s long-term sustainability and maintainability.",
+    "course": ["67-373"],
+    "representatives": ["Heather Jones"],
+    "students": ["Fatou Gueye", "Andrew Wang", "Riya Kinny", "Dhanya Shah"],
+    "desc": "Moonshot Mission Control is a cutting-edge research lab and command center in the CMU School of Computer Science's Gates Center, with a mission to advance space exploration and robotics. They are currently working on the MoonRanger space project, which aims to explore lunar polar ice using an autonomous rover. The consulting team developed a cloud-based archival and backup process while also enhancing the functionality, scalability, and usability of the mission control software's database used to monitor and command space experiments. These improvements will enable more efficient system operations and ensure the software's long-term sustainability and maintainability.",
     "logo": "assets/img/project_logos/spring2025/19.png",
     "pdf": "assets/img/project_pdfs/spring2025/19.pdf",
-    "sdg": [
-      "goodhealthandwellbeing",
-      "qualityeducation",
-      "decentworkandeconomicgrowth",
-      "reducedinequalities",
-      "sustainablecitiesandcommunities"
-    ],
-    "tech": [
-      "dataanalytics",
-      "technologystrategy",
-      "userexperience&userinterface",
-      "webapp"
-    ]
+    "sdg": ["promotehealth", "qualityeducation", "workandeconomicgrowth", "reduceinequality", "sustainablecities"],
+    "tech": ["dataanalytics", "technologystrategy", "userexperience", "webapp"]
   },
   {
     "id": 256,
     "partner": "National Museum of Broadcasting",
     "year": 2025,
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Rick Harris",
-      "Susie Barbour",
-      "Rosemary Martinelli",
-      "and Harry Jessel (left project midway through)"
-    ],
-    "students": [
-      "Alice Kang",
-      "Lexi Kronowitz",
-      "Alexis Wang"
-    ],
-    "desc": "The National Museum of Broadcasting (NMB) is a nonprofit organization dedicated to preserving and sharing the history of broadcasting. The CMU IS students developed a long-term technology plan and redesigned the museum’s website to help NMB demonstrate operational readiness and engage potential donors. This project strengthened the museum’s ability to secure funding, organize its artifact collection, and build a credible digital presence.",
+    "course": ["67-373"],
+    "representatives": ["Rick Harris", "Susie Barbour", "Rosemary Martinelli", "and Harry Jessel (left project midway through)"],
+    "students": ["Alice Kang", "Lexi Kronowitz", "Alexis Wang"],
+    "desc": "The National Museum of Broadcasting (NMB) is a nonprofit organization dedicated to preserving and sharing the history of broadcasting. The CMU IS students developed a long-term technology plan and redesigned the museum's website to help NMB demonstrate operational readiness and engage potential donors. This project strengthened the museum's ability to secure funding, organize its artifact collection, and build a credible digital presence.",
     "logo": "assets/img/project_logos/spring2025/20.png",
     "pdf": "assets/img/project_pdfs/spring2025/20.pdf",
-    "sdg": [
-      "qualityeducation",
-      "decentworkandeconomicgrowth",
-      "reducedinequalities",
-      "peacejusticeandstronginstitutions",
-      "partnershipsforthegoals"
-    ],
-    "tech": [
-      "customerrelationshipmanagementsystem",
-      "dataanalytics",
-      "databasesolution",
-      "informationsecurity&risk",
-      "softwareintegration",
-      "technologystrategy",
-      "userexperience&userinterface",
-      "webapp"
-    ]
+    "sdg": ["qualityeducation", "workandeconomicgrowth", "reduceinequality", "peaceandinclusion", "partnershipsforgoals"],
+    "tech": ["crm", "dataanalytics", "databasesolution", "informationsecurityrisk", "softwareintegration", "technologystrategy", "userexperience", "webapp"]
   },
   {
     "id": 257,
     "partner": "Open Up",
     "year": 2025,
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Karryn Lintelman",
-      "Tessa Karel",
-      "Marissa Vogel"
-    ],
-    "students": [
-      "Savannah Xu",
-      "Pauline Zhang",
-      "Alex Lewis"
-    ],
+    "course": ["67-373"],
+    "representatives": ["Karryn Lintelman", "Tessa Karel", "Marissa Vogel"],
+    "students": ["Savannah Xu", "Pauline Zhang", "Alex Lewis"],
     "desc": "Open Up is a nonprofit organization based in Pittsburgh that provides mindfulness tools through movement and art, with a focus on centering people with disabilities. Our team worked with Open Up to bring their in-person training online by building a structured course on Thinkific and documenting a repeatable workflow for future course creation. This project expanded access to their programming, created new opportunities for monetization, and provided the foundation for long-term sustainability in digital learning.",
     "logo": "assets/img/project_logos/spring2025/21.png",
     "pdf": "assets/img/project_pdfs/spring2025/21.pdf",
-    "sdg": [
-      "qualityeducation",
-      "decentworkandeconomicgrowth",
-      "reducedinequalities"
-    ],
-    "tech": [
-      "technologystrategy",
-      "userexperience&userinterface",
-      "webapp"
-    ]
+    "sdg": ["qualityeducation", "workandeconomicgrowth", "reduceinequality"],
+    "tech": ["technologystrategy", "userexperience", "webapp"]
   },
   {
     "id": 258,
     "partner": "PA Education Diversity Consortium",
     "year": 2025,
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Allyce Pinchback-Johnson"
-    ],
-    "students": [
-      "Amanda Lu",
-      "Krutika Kumar",
-      "Xuchao Zhou"
-    ],
+    "course": ["67-373"],
+    "representatives": ["Allyce Pinchback-Johnson"],
+    "students": ["Amanda Lu", "Krutika Kumar", "Xuchao Zhou"],
     "desc": "The Pennsylvania Educator Diversity Consortium (PEDC) is a statewide organization focused on promoting a diverse educator workforce and advancing culturally relevant education systems. The CMU IS team enhanced PEDC's asset map by improving data visualization and expanding datasets to better identify key DEI-related resources across Southwestern Pennsylvania. These updates make it easier for educators, policymakers, and community leaders to access critical resources, fostering a more equitable educational landscape.",
     "logo": "assets/img/project_logos/spring2025/22.png",
     "pdf": "assets/img/project_pdfs/spring2025/22.pdf",
-    "sdg": [
-      "nopoverty",
-      "goodhealthandwellbeing",
-      "qualityeducation",
-      "decentworkandeconomicgrowth",
-      "reducedinequalities",
-      "peacejusticeandstronginstitutions"
-    ],
-    "tech": [
-      "api",
-      "artificialintelligence&machinelearning",
-      "dataanalytics",
-      "databasesolution",
-      "optimizationalgorithms",
-      "softwareintegration",
-      "userexperience&userinterface",
-      "webapp"
-    ]
+    "sdg": ["nopoverty", "promotehealth", "qualityeducation", "workandeconomicgrowth", "reduceinequality", "peaceandinclusion"],
+    "tech": ["api", "artificialintelligence&machinelearning", "dataanalytics", "databasesolution", "optimizationalgorithms", "softwareintegration", "userexperience", "webapp"]
   },
   {
     "id": 259,
     "partner": "Partners Campus Community Engagement",
     "year": 2025,
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Dave Harker"
-    ],
-    "students": [
-      "Shanting Hou",
-      "Anqi Chen",
-      "Jack Sun"
-    ],
+    "course": ["67-373"],
+    "representatives": ["Dave Harker"],
+    "students": ["Shanting Hou", "Anqi Chen", "Jack Sun"],
     "desc": "Partners for Campus-Community Engagement is a nonprofit dedicated to fostering equitable and just relationships between higher education institutions and their surrounding communities through collaborative programs and grants. Our team built and delivered a centralized, ArcGIS‑powered interactive map with an automated Google Sheets data pipeline, a Google Form for member updates, and a custom script to format and geocode incoming data. This solution now gives PCCE staff real‑time visibility across their network, streamlines data management, and empowers member institutions to more easily connect, share resources, and identify collaboration opportunities.",
     "logo": "assets/img/project_logos/spring2025/23.png",
     "pdf": "assets/img/project_pdfs/spring2025/23.pdf",
-    "sdg": [
-      "goodhealthandwellbeing",
-      "cleanwaterandsanitation",
-      "affordableandcleanenergy",
-      "decentworkandeconomicgrowth",
-      "sustainablecitiesandcommunities",
-      "responsibleconsumptionandproduction",
-      "climateaction",
-      "lifebelowwater",
-      "lifeonland",
-      "peacejusticeandstronginstitutions",
-      "partnershipsforthegoals"
-    ],
-    "tech": [
-      "api",
-      "dataanalytics",
-      "databasesolution"
-    ]
+    "sdg": ["promotehealth", "cleanwatersanitation", "cleanenergy", "workandeconomicgrowth", "sustainablecities", "responsibleconsumption", "climateaction", "lifebelowwater", "lifeonland", "peaceandinclusion", "partnershipsforgoals"],
+    "tech": ["api", "dataanalytics", "databasesolution"]
   },
   {
     "id": 260,
     "partner": "Pittsburgh Hires Veterans",
     "year": 2025,
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Jack Lyden"
-    ],
-    "students": [
-      "Victor Crawshaw",
-      "Victor Wang",
-      "Lue Lin"
-    ],
-    "desc": "Pittsburgh Hires Veterans (PHV) is a nonprofit dedicated to helping U.S. military veterans and their families access education, training, and meaningful employment opportunities. Our team developed a WordPress plugin that matches veteran candidates with job postings based on their skills and preferences, and built tools to manage and automate these matches. This project improved PHV’s ability to efficiently connect veterans with quality jobs, ultimately supporting their transition into the civilian workforce and strengthening local communities.",
+    "course": ["67-373"],
+    "representatives": ["Jack Lyden"],
+    "students": ["Victor Crawshaw", "Victor Wang", "Lue Lin"],
+    "desc": "Pittsburgh Hires Veterans (PHV) is a nonprofit dedicated to helping U.S. military veterans and their families access education, training, and meaningful employment opportunities. Our team developed a WordPress plugin that matches veteran candidates with job postings based on their skills and preferences, and built tools to manage and automate these matches. This project improved PHV's ability to efficiently connect veterans with quality jobs, ultimately supporting their transition into the civilian workforce and strengthening local communities.",
     "logo": "assets/img/project_logos/spring2025/24.png",
     "pdf": "assets/img/project_pdfs/spring2025/24.pdf",
-    "sdg": [
-      "qualityeducation",
-      "genderequality",
-      "reducedinequalities"
-    ],
-    "tech": [
-      "api",
-      "dataanalytics",
-      "databasesolution",
-      "technologystrategy",
-      "userexperience&userinterface"
-    ]
+    "sdg": ["qualityeducation", "genderequality", "reduceinequality"],
+    "tech": ["api", "dataanalytics", "databasesolution", "technologystrategy", "userexperience"]
   },
   {
     "id": 261,
     "partner": "Pittsburgh Queer History Project",
     "year": 2025,
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Harrison Apple"
-    ],
-    "students": [
-      "Michael Li",
-      "Corince Wange",
-      "Meghna Chityala"
-    ],
-    "desc": "The Pittsburgh Queer History Project (PQHP) is an archival initiative focused on LGBTQ social clubs from the late 20th century dedicated to preserving and sharing the histories of Pittsburgh’s LGBTQ+ communities through oral histories, events, records, and public collections. Carnegie Mellon Information Systems students redesigned and implemented an updated WordPress website, restructured the public GitHub archive for better accessibility, and provided recommendations for a private archiving system. These changes improve the project's long-term maintainability, reduce reliance on the sole administrator, and create infrastructure for future community involvement and contribution.",
+    "course": ["67-373"],
+    "representatives": ["Harrison Apple"],
+    "students": ["Michael Li", "Corince Wange", "Meghna Chityala"],
+    "desc": "The Pittsburgh Queer History Project (PQHP) is an archival initiative focused on LGBTQ social clubs from the late 20th century dedicated to preserving and sharing the histories of Pittsburgh's LGBTQ+ communities through oral histories, events, records, and public collections. Carnegie Mellon Information Systems students redesigned and implemented an updated WordPress website, restructured the public GitHub archive for better accessibility, and provided recommendations for a private archiving system. These changes improve the project's long-term maintainability, reduce reliance on the sole administrator, and create infrastructure for future community involvement and contribution.",
     "logo": "assets/img/project_logos/spring2025/25.png",
     "pdf": "assets/img/project_pdfs/spring2025/25.pdf",
-    "sdg": [
-      "zerohunger",
-      "goodhealthandwellbeing",
-      "cleanwaterandsanitation"
-    ],
-    "tech": [
-      "api",
-      "databasesolution",
-      "mobileapp",
-      "softwareintegration",
-      "technologystrategy",
-      "userexperience&userinterface"
-    ]
+    "sdg": ["zerohunger", "promotehealth", "cleanwatersanitation"],
+    "tech": ["api", "databasesolution", "mobapp", "softwareintegration", "technologystrategy", "userexperience"]
   },
   {
     "id": 262,
     "partner": "Project PT",
     "year": 2025,
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Jim Cirilano",
-      "Natalie Ford"
-    ],
-    "students": [
-      "Mingxi Yan",
-      "Yang Pan",
-      "Justin Oeni"
-    ],
+    "course": ["67-373"],
+    "representatives": ["Jim Cirilano", "Natalie Ford"],
+    "students": ["Mingxi Yan", "Yang Pan", "Justin Oeni"],
     "desc": "Protect PT is a nonprofit organization dedicated to ensuring residents' safety, security, and quality of life by engaging in education and advocacy to protect the economic, environmental, and legal rights of the people in Westmoreland and Allegheny counties. \n \n The CMU student built a database that contains all the past violations as well as other relevant evidence for fracking sites. The solution automated the updates of violations and provide a centralized, queryable system that aggregates violation data and links it with supporting documents.",
     "logo": "assets/img/project_logos/spring2025/26.png",
     "pdf": "assets/img/project_pdfs/spring2025/26.pdf",
-    "sdg": [
-      "goodhealthandwellbeing",
-      "qualityeducation"
-    ],
-    "tech": [
-      "dataanalytics",
-      "databasesolution",
-      "searchengineoptimization",
-      "userexperience&userinterface"
-    ]
+    "sdg": ["promotehealth", "qualityeducation"],
+    "tech": ["dataanalytics", "databasesolution", "searchengineoptimization", "userexperience"]
   },
   {
     "id": 263,
     "partner": "Queens Gambit",
     "year": 2025,
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Ashley Lynn Priore"
-    ],
-    "students": [
-      "Baron Niu",
-      "Jorge Urias",
-      "Vy Tran"
-    ],
+    "course": ["67-373"],
+    "representatives": ["Ashley Lynn Priore"],
+    "students": ["Baron Niu", "Jorge Urias", "Vy Tran"],
     "desc": "Queens Gambit is a nonprofit dedicated to empowering underserved youth, particularly girls and students of color, through chess education and leadership development. Our team developed a branded internal rating and leaderboard system to help the organization track student progress without relying on costly United States Chess Federation (USCF) memberships. This solution makes it easier for instructors to run tournaments and record match results, increasing student engagement and supporting long-term program growth.",
     "logo": "assets/img/project_logos/spring2025/27.png",
     "pdf": "assets/img/project_pdfs/spring2025/27.pdf",
-    "sdg": [
-      "nopoverty",
-      "goodhealthandwellbeing",
-      "genderequality",
-      "reducedinequalities",
-      "peacejusticeandstronginstitutions",
-      "partnershipsforthegoals"
-    ],
-    "tech": [
-      "dataanalytics",
-      "technologystrategy",
-      "webapp"
-    ]
+    "sdg": ["nopoverty", "promotehealth", "genderequality", "reduceinequality", "peaceandinclusion", "partnershipsforgoals"],
+    "tech": ["dataanalytics", "technologystrategy", "webapp"]
   },
   {
     "id": 264,
     "partner": "River Art Works",
     "year": 2025,
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Jane Altman"
-    ],
-    "students": [
-      "Cassandra Zhou",
-      "Forest Ma",
-      "Ariel Chiu"
-    ],
+    "course": ["67-373"],
+    "representatives": ["Jane Altman"],
+    "students": ["Cassandra Zhou", "Forest Ma", "Ariel Chiu"],
     "desc": "River Art Works is a nonprofit organization dedicated to promoting community engagement by supporting local artists and investing in youth development through art education. Our team enhanced their digital presence by improving key areas of their website, including the ArtTEK for TEENS program page, the Events page, and proposing a clearer overall site structure through a sitemap, as well as reducing manual workload for staff by developing a streamlined registration process for their programs. As a result, the organization is now better equipped to attract students, engage community members, and manage program registrations more efficiently.",
     "logo": "assets/img/project_logos/spring2025/28.png",
     "pdf": "assets/img/project_pdfs/spring2025/28.pdf",
-    "sdg": [
-      "goodhealthandwellbeing",
-      "decentworkandeconomicgrowth",
-      "reducedinequalities",
-      "peacejusticeandstronginstitutions",
-      "partnershipsforthegoals"
-    ],
-    "tech": [
-      "api",
-      "customerrelationshipmanagementsystem",
-      "databasesolution",
-      "mobileapp",
-      "softwareintegration",
-      "userexperience&userinterface",
-      "webapp"
-    ]
+    "sdg": ["promotehealth", "workandeconomicgrowth", "reduceinequality", "peaceandinclusion", "partnershipsforgoals"],
+    "tech": ["api", "crm", "databasesolution", "mobapp", "softwareintegration", "userexperience", "webapp"]
   },
   {
     "id": 265,
     "partner": "Sheraden Community Council",
     "year": 2025,
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Johnathan Alexander"
-    ],
-    "students": [
-      "Ayden Xu",
-      "Wenna Zhang",
-      "Crystal Cheng"
-    ],
+    "course": ["67-373"],
+    "representatives": ["Johnathan Alexander"],
+    "students": ["Ayden Xu", "Wenna Zhang", "Crystal Cheng"],
     "desc": "The Sheraden Community Council is a volunteer-run nonprofit focused on improving life for Sheraden residents. Our team developed a digital strategy to modernize their outreach, including a website and better information management. The project strengthens community engagement, volunteer participation, and long-term sustainability.",
     "logo": "assets/img/project_logos/spring2025/29.png",
     "pdf": "assets/img/project_pdfs/spring2025/29.pdf",
-    "sdg": [
-      "qualityeducation",
-      "reducedinequalities",
-      "peacejusticeandstronginstitutions"
-    ],
-    "tech": [
-      "softwareintegration",
-      "userexperience&userinterface",
-      "webapp"
-    ]
+    "sdg": ["qualityeducation", "reduceinequality", "peaceandinclusion"],
+    "tech": ["softwareintegration", "userexperience", "webapp"]
   },
   {
     "id": 266,
     "partner": "Sweetwater Center for the Arts",
     "year": 2025,
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Christine Brondyke",
-      "Chad Kanick"
-    ],
-    "students": [
-      "Jason Shen",
-      "Octavius Tan",
-      "Justin Zou"
-    ],
+    "course": ["67-373"],
+    "representatives": ["Christine Brondyke", "Chad Kanick"],
+    "students": ["Jason Shen", "Octavius Tan", "Justin Zou"],
     "desc": "Sweetwater Center for the Arts is a nonprofit organization dedicated to enriching the community through accessible art education and cultural programming. Our team developed an automated survey and analytics dashboard system to help Sweetwater track the outcomes of its new Artist Membership Program. This system will enable staff to collect consistent feedback, measure program impact over time, and strengthen future grant applications and program development.",
     "logo": "assets/img/project_logos/spring2025/30.png",
     "pdf": "assets/img/project_pdfs/spring2025/30.pdf",
-    "sdg": [
-      "industryinnovationandinfrastructure",
-      "sustainablecitiesandcommunities"
-    ],
-    "tech": [
-      "databasesolution",
-      "technologystrategy",
-      "webapp"
-    ]
+    "sdg": ["industryinnovationinfrastructure", "sustainablecities"],
+    "tech": ["databasesolution", "technologystrategy", "webapp"]
   },
   {
     "id": 267,
     "partner": "The Treasure House",
     "year": 2025,
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Sally Power"
-    ],
-    "students": [
-      "Veronica Benedict",
-      "Ruiming (Alysson) Gu",
-      "Katelyn Zheng",
-      "Veronica Pimenova"
-    ],
+    "course": ["67-373"],
+    "representatives": ["Sally Power"],
+    "students": ["Veronica Benedict", "Ruiming (Alysson) Gu", "Katelyn Zheng", "Veronica Pimenova"],
     "desc": "Treasure House Fashions is a nonprofit organization that promotes the dignity and self-esteem of women in crisis by providing professional clothing. Our team enhanced and completed a web-based Gift Certificate Management Platform by fixing critical issues and adding new features. The improved system streamlines operations, reduces administrative burden, and positions THF for sustainable growth and greater community impact.",
     "logo": "assets/img/project_logos/spring2025/31.png",
     "pdf": "assets/img/project_pdfs/spring2025/31.pdf",
-    "sdg": [
-      "nopoverty",
-      "qualityeducation",
-      "industryinnovationandinfrastructure",
-      "peacejusticeandstronginstitutions",
-      "partnershipsforthegoals"
-    ],
-    "tech": [
-      "databasesolution",
-      "technologystrategy",
-      "userexperience&userinterface"
-    ]
+    "sdg": ["nopoverty", "qualityeducation", "industryinnovationinfrastructure", "peaceandinclusion", "partnershipsforgoals"],
+    "tech": ["databasesolution", "technologystrategy", "userexperience"]
   },
   {
     "id": 268,
     "partner": "Thick but Fit",
     "year": 2025,
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Diana Byas"
-    ],
-    "students": [
-      "Neha Tirumalai",
-      "Kajal Metha",
-      "Eshar Hans"
-    ],
-    "desc": "Thick But Fit Crew is a women-owned fitness center committed to promoting holistic health and wellness for senior women in an inclusive and empowering environment. Our team developed a centralized, automated financial tracking system using Google Sheets, Google Forms, and Figma to streamline the organization’s revenue management. The project will reduce manual effort, improve financial visibility, and give the client a sustainable tool to support long-term business growth.",
+    "course": ["67-373"],
+    "representatives": ["Diana Byas"],
+    "students": ["Neha Tirumalai", "Kajal Metha", "Eshar Hans"],
+    "desc": "Thick But Fit Crew is a women-owned fitness center committed to promoting holistic health and wellness for senior women in an inclusive and empowering environment. Our team developed a centralized, automated financial tracking system using Google Sheets, Google Forms, and Figma to streamline the organization's revenue management. The project will reduce manual effort, improve financial visibility, and give the client a sustainable tool to support long-term business growth.",
     "logo": "assets/img/project_logos/spring2025/32.png",
     "pdf": "assets/img/project_pdfs/spring2025/32.pdf",
-    "sdg": [
-      "qualityeducation",
-      "reducedinequalities",
-      "peacejusticeandstronginstitutions"
-    ],
-    "tech": [
-      "dataanalytics",
-      "geographicinformationsystems",
-      "informationsecurity&risk",
-      "technologystrategy",
-      "userexperience&userinterface"
-    ]
+    "sdg": ["qualityeducation", "reduceinequality", "peaceandinclusion"],
+    "tech": ["dataanalytics", "geographicinformationsystem", "informationsecurityrisk", "technologystrategy", "userexperience"]
   },
   {
     "id": 269,
     "partner": "Wesley Family Services",
     "year": 2025,
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Aaron Richards"
-    ],
-    "students": [
-      "Kareem Segizekov",
-      "Ming Ming Glankwamdee",
-      "Tin Chi Lo"
-    ],
+    "course": ["67-373"],
+    "representatives": ["Aaron Richards"],
+    "students": ["Kareem Segizekov", "Ming Ming Glankwamdee", "Tin Chi Lo"],
     "desc": "Wesley Family Services is a nonprofit organization based in Pittsburgh, Pennsylvania, dedicated to providing mental and behavioral health services. Wesley Family Services faces significant inefficiencies in data transformation and retrieval and thus our team developed a powershell scripting solution that automated data retrieval, transformation, and integration. This resulted in a 75% reduction in manual labor hours for data processing,\n cost savings by eliminating reliance on third-party transformation tools, security enhancements, reducing malware risks from third-party data and improved workflow efficiency, allowing IT staff to focus on strategic initiatives.",
     "logo": "assets/img/project_logos/spring2025/33.png",
     "pdf": "assets/img/project_pdfs/spring2025/33.pdf",
-    "sdg": [
-      "qualityeducation",
-      "sustainablecitiesandcommunities",
-      "peacejusticeandstronginstitutions"
-    ],
-    "tech": [
-      "geographicinformationsystems",
-      "userexperience&userinterface",
-      "webapp"
-    ]
+    "sdg": ["qualityeducation", "sustainablecities", "peaceandinclusion"],
+    "tech": ["geographicinformationsystem", "userexperience", "webapp"]
   },
   {
     "id": 270,
     "partner": "Women Against Abusive Relationships",
     "year": 2025,
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Roxanne Epperson"
-    ],
-    "students": [
-      "Wenchao Hu",
-      "Cindy Jiang",
-      "She switched teams."
-    ],
-    "desc": "WAAR's mission is 'to break the cycle of violence against women and girls and aid in their healing process.' The CMU IS student team created automated data entry system, Airtable reminder system, and revamped the website. These solutions streamline administrative processes, reduce errors, enhance participant engagement, and improve the organization’s online presence.",
+    "course": ["67-373"],
+    "representatives": ["Roxanne Epperson"],
+    "students": ["Wenchao Hu", "Cindy Jiang", "She switched teams."],
+    "desc": "WAAR's mission is 'to break the cycle of violence against women and girls and aid in their healing process.' The CMU IS student team created automated data entry system, Airtable reminder system, and revamped the website. These solutions streamline administrative processes, reduce errors, enhance participant engagement, and improve the organization's online presence.",
     "logo": "assets/img/project_logos/spring2025/34.png",
     "pdf": "assets/img/project_pdfs/spring2025/34.pdf",
-    "sdg": [
-      "goodhealthandwellbeing",
-      "reducedinequalities",
-      "responsibleconsumptionandproduction",
-      "climateaction",
-      "partnershipsforthegoals"
-    ],
-    "tech": [
-      "api",
-      "customerrelationshipmanagementsystem",
-      "dataanalytics",
-      "databasesolution",
-      "informationsecurity&risk",
-      "softwareintegration",
-      "technologystrategy",
-      "userexperience&userinterface",
-      "webapp"
-    ]
+    "sdg": ["promotehealth", "reduceinequality", "responsibleconsumption", "climateaction", "partnershipsforgoals"],
+    "tech": ["api", "crm", "dataanalytics", "databasesolution", "informationsecurityrisk", "softwareintegration", "technologystrategy", "userexperience", "webapp"]
   },
   {
     "id": 271,
     "partner": "Yoga in Sewickley",
     "year": 2025,
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Sharon Beddard-Hess"
-    ],
-    "students": [
-      "Panpan Tochirakul",
-      "Sally Pak",
-      "Simran Bedi"
-    ],
-    "desc": "Yoga in Sewickley is a community-focused studio dedicated to promoting health and wellness and teaching yoga as it should be–mindfully and paying special attention to alignment. The CMU IS team redesigned the studio’s website and created a custom Google Sheets database system to digitize class tracking and revenue management. These solutions modernized the studio’s digital presence, improved operational efficiency, and empowered the studio owner to manage her business more independently.",
+    "course": ["67-373"],
+    "representatives": ["Sharon Beddard-Hess"],
+    "students": ["Panpan Tochirakul", "Sally Pak", "Simran Bedi"],
+    "desc": "Yoga in Sewickley is a community-focused studio dedicated to promoting health and wellness and teaching yoga as it should be–mindfully and paying special attention to alignment. The CMU IS team redesigned the studio's website and created a custom Google Sheets database system to digitize class tracking and revenue management. These solutions modernized the studio's digital presence, improved operational efficiency, and empowered the studio owner to manage her business more independently.",
     "logo": "assets/img/project_logos/spring2025/35.png",
     "pdf": "assets/img/project_pdfs/spring2025/35.pdf",
-    "sdg": [
-      "goodhealthandwellbeing",
-      "reducedinequalities",
-      "sustainablecitiesandcommunities",
-      "peacejusticeandstronginstitutions"
-    ],
-    "tech": [
-      "dataanalytics",
-      "databasesolution",
-      "socialmedia",
-      "technologystrategy",
-      "userexperience&userinterface",
-      "webapp"
-    ]
+    "sdg": ["promotehealth", "reduceinequality", "sustainablecities", "peaceandinclusion"],
+    "tech": ["dataanalytics", "databasesolution", "socialmediapage", "technologystrategy", "userexperience", "webapp"]
   },
   {
     "id": 272,
     "partner": "Youth Enrichment Services",
     "year": 2025,
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Youth Enrichment Services"
-    ],
-    "students": [
-      "Kester Tan",
-      "Vicky Cheb",
-      "Sherry Zhuge"
-    ],
+    "course": ["67-373"],
+    "representatives": ["Youth Enrichment Services"],
+    "students": ["Kester Tan", "Vicky Cheb", "Sherry Zhuge"],
     "desc": "YES' mission is to work with and provide services to youths around the Pittsburgh community and work with them to become a better version of themselves as they gro from adolescence to adulthood. Our team's objective is to help YES organize their current massive database of all student and youth records into a platform that's more UI friendly with better interfaces. This project would overall impact all the employees of YES who needs to interact with the database/information for any of their events/outreach.",
     "logo": "assets/img/project_logos/spring2025/36.png",
     "pdf": "assets/img/project_pdfs/spring2025/36.pdf",
-    "sdg": [
-      "qualityeducation",
-      "reducedinequalities"
-    ],
-    "tech": [
-      "technologystrategy",
-      "userexperience&userinterface",
-      "webapp"
-    ]
+    "sdg": ["qualityeducation", "reduceinequality"],
+    "tech": ["technologystrategy", "userexperience", "webapp"]
   },
   {
     "id": 273,
     "partner": "YWCA Greater Pittsburgh",
     "year": 2025,
-    "course": [
-      "67-373"
-    ],
-    "representatives": [
-      "Carissa Bost"
-    ],
-    "students": [
-      "Jianing Shi",
-      "Allison Feldman",
-      "Xinyi Chen"
-    ],
+    "course": ["67-373"],
+    "representatives": ["Carissa Bost"],
+    "students": ["Jianing Shi", "Allison Feldman", "Xinyi Chen"],
     "desc": "YWCA Greater Pittsburgh envisions a community that advances education, opportunity, and equity regardless of gender, race, or background. The CMU IS students built a more streamlined workspace—from data entry to visualization—and designed cleaner, purpose-specific interfaces, integrating third-party platform Airtable to better support their operations. This system empowered the organization to increase program operational efficiency, visualize outcomes, and enhance collaboration with community partners and funders to better serve their mission.",
     "logo": "assets/img/project_logos/spring2025/37.png",
     "pdf": "assets/img/project_pdfs/spring2025/37.pdf",
-    "sdg": [
-      "qualityeducation",
-      "genderequality",
-      "decentworkandeconomicgrowth",
-      "reducedinequalities"
-    ],
-    "tech": [
-      "dataanalytics",
-      "technologystrategy",
-      "userexperience&userinterface"
-    ]
+    "sdg": ["qualityeducation", "genderequality", "workandeconomicgrowth", "reduceinequality"],
+    "tech": ["dataanalytics", "technologystrategy", "userexperience"]
   },
   {
     "id": 274,
@@ -7230,20 +6547,20 @@
     "logo": "assets/img/project_logos/spring2026/1.png",
     "pdf": "assets/img/project_pdfs/spring2026/1.pdf",
     "sdg": [
-      "decentworkandeconomicgrowth",
-      "industryinnovationandinfrastructure",
-      "reducedinequalities"
+      "workandeconomicgrowth",
+      "industryinnovationinfrastructure",
+      "reduceinequality"
     ],
     "tech": [
       "api",
       "dataanalytics",
       "databasesolution",
-      "geographicinformationsystems",
-      "mobileapp",
+      "geographicinformationsystem",
+      "mobapp",
       "optimizationalgorithms",
       "softwareintegration",
       "technologystrategy",
-      "userexperience&userinterface",
+      "userexperience",
       "webapp"
     ]
   },
@@ -7266,10 +6583,10 @@
     "logo": "assets/img/project_logos/spring2026/2.jpg",
     "pdf": "assets/img/project_pdfs/spring2026/2.pdf",
     "sdg": [
-      "sustainablecitiesandcommunities"
+      "sustainablecities"
     ],
     "tech": [
-      "customerrelationshipmanagementsystem"
+      "crm"
     ]
   },
   {
@@ -7292,12 +6609,12 @@
     "logo": "assets/img/project_logos/spring2026/3.png",
     "pdf": "assets/img/project_pdfs/spring2026/3.pdf",
     "sdg": [
-      "goodhealthandwellbeing"
+      "promotehealth"
     ],
     "tech": [
       "api",
       "databasesolution",
-      "userexperience&userinterface",
+      "userexperience",
       "webapp"
     ]
   },
@@ -7309,7 +6626,7 @@
       "67-373"
     ],
     "representatives": [
-      "Desirée Soteres"
+      "Desir\u00e9e Soteres"
     ],
     "students": [
       "Biplop Ghimire",
@@ -7320,9 +6637,9 @@
     "logo": "assets/img/project_logos/spring2026/4.png",
     "pdf": "assets/img/project_pdfs/spring2026/4.pdf",
     "sdg": [
-      "reducedinequalities",
-      "sustainablecitiesandcommunities",
-      "partnershipsforthegoals"
+      "reduceinequality",
+      "sustainablecities",
+      "partnershipsforgoals"
     ],
     "tech": [
       "artificialintelligence&machinelearning",
@@ -7351,11 +6668,11 @@
     "pdf": "assets/img/project_pdfs/spring2026/5.pdf",
     "sdg": [
       "qualityeducation",
-      "reducedinequalities",
-      "sustainablecitiesandcommunities"
+      "reduceinequality",
+      "sustainablecities"
     ],
     "tech": [
-      "userexperience&userinterface",
+      "userexperience",
       "webapp"
     ]
   },
@@ -7378,17 +6695,17 @@
     "logo": "assets/img/project_logos/spring2026/6.png",
     "pdf": "assets/img/project_pdfs/spring2026/6.pdf",
     "sdg": [
-      "goodhealthandwellbeing",
+      "promotehealth",
       "qualityeducation",
-      "industryinnovationandinfrastructure",
-      "reducedinequalities",
-      "sustainablecitiesandcommunities"
+      "industryinnovationinfrastructure",
+      "reduceinequality",
+      "sustainablecities"
     ],
     "tech": [
       "artificialintelligence&machinelearning",
       "dataanalytics",
       "databasesolution",
-      "geographicinformationsystems",
+      "geographicinformationsystem",
       "softwareintegration",
       "technologystrategy",
       "webapp"
@@ -7414,14 +6731,14 @@
     "logo": "assets/img/project_logos/spring2026/7.jpg",
     "pdf": "assets/img/project_pdfs/spring2026/7.pdf",
     "sdg": [
-      "goodhealthandwellbeing"
+      "promotehealth"
     ],
     "tech": [
       "api",
       "databasesolution",
-      "mobileapp",
+      "mobapp",
       "softwareintegration",
-      "userexperience&userinterface"
+      "userexperience"
     ]
   },
   {
@@ -7443,12 +6760,12 @@
     "logo": "assets/img/project_logos/spring2026/8.png",
     "pdf": "assets/img/project_pdfs/spring2026/8.pdf",
     "sdg": [
-      "partnershipsforthegoals"
+      "partnershipsforgoals"
     ],
     "tech": [
-      "customerrelationshipmanagementsystem",
+      "crm",
       "softwareintegration",
-      "userexperience&userinterface"
+      "userexperience"
     ]
   },
   {
@@ -7467,24 +6784,24 @@
       "Jose Lima",
       "Mason Brownrigg"
     ],
-    "desc": "Future Kings Mentoring (FKM) is dedicated to cultivating and developing male-identifying black youth into realizing they are Future Kings—young successful leaders in their careers, in their communities, and in their worlds—through programming and community events. The CMU IS students redesigned the FKM website to be more actionable, created an automation to upload donor records to Salesforce, and cataloged their presentations through the creation of a Python AI service. The new website design increases donor conversion rate, and the automation along with the cataloging saves several hours of laborious work that allows FKM leadership to focus on their mission.",
+    "desc": "Future Kings Mentoring (FKM) is dedicated to cultivating and developing male-identifying black youth into realizing they are Future Kings\u2014young successful leaders in their careers, in their communities, and in their worlds\u2014through programming and community events. The CMU IS students redesigned the FKM website to be more actionable, created an automation to upload donor records to Salesforce, and cataloged their presentations through the creation of a Python AI service. The new website design increases donor conversion rate, and the automation along with the cataloging saves several hours of laborious work that allows FKM leadership to focus on their mission.",
     "logo": "assets/img/project_logos/spring2026/9.png",
     "pdf": "assets/img/project_pdfs/spring2026/9.pdf",
     "sdg": [
       "qualityeducation",
-      "decentworkandeconomicgrowth",
-      "reducedinequalities",
-      "peacejusticeandstronginstitutions"
+      "workandeconomicgrowth",
+      "reduceinequality",
+      "peaceandinclusion"
     ],
     "tech": [
       "api",
       "artificialintelligence&machinelearning",
-      "customerrelationshipmanagementsystem",
+      "crm",
       "databasesolution",
       "searchengineoptimization",
       "softwareintegration",
       "technologystrategy",
-      "userexperience&userinterface"
+      "userexperience"
     ]
   },
   {
@@ -7508,13 +6825,13 @@
     "pdf": "assets/img/project_pdfs/spring2026/10.pdf",
     "sdg": [
       "qualityeducation",
-      "decentworkandeconomicgrowth",
-      "reducedinequalities",
-      "peacejusticeandstronginstitutions"
+      "workandeconomicgrowth",
+      "reduceinequality",
+      "peaceandinclusion"
     ],
     "tech": [
       "technologystrategy",
-      "userexperience&userinterface",
+      "userexperience",
       "webapp"
     ]
   },
@@ -7538,14 +6855,14 @@
     "logo": "assets/img/project_logos/spring2026/11.png",
     "pdf": "assets/img/project_pdfs/spring2026/11.pdf",
     "sdg": [
-      "goodhealthandwellbeing",
+      "promotehealth",
       "qualityeducation",
-      "reducedinequalities",
-      "sustainablecitiesandcommunities",
-      "partnershipsforthegoals"
+      "reduceinequality",
+      "sustainablecities",
+      "partnershipsforgoals"
     ],
     "tech": [
-      "customerrelationshipmanagementsystem",
+      "crm",
       "databasesolution",
       "optimizationalgorithms",
       "technologystrategy"
@@ -7570,20 +6887,20 @@
     "logo": "assets/img/project_logos/spring2026/12.png",
     "pdf": "assets/img/project_pdfs/spring2026/12.pdf",
     "sdg": [
-      "goodhealthandwellbeing",
-      "reducedinequalities",
-      "sustainablecitiesandcommunities",
-      "partnershipsforthegoals"
+      "promotehealth",
+      "reduceinequality",
+      "sustainablecities",
+      "partnershipsforgoals"
     ],
     "tech": [
       "api",
-      "customerrelationshipmanagementsystem",
+      "crm",
       "dataanalytics",
       "databasesolution",
       "informationkiosk",
       "softwareintegration",
       "technologystrategy",
-      "userexperience&userinterface",
+      "userexperience",
       "webapp"
     ]
   },
@@ -7607,15 +6924,15 @@
     "logo": "assets/img/project_logos/spring2026/13.png",
     "pdf": "assets/img/project_pdfs/spring2026/13.pdf",
     "sdg": [
-      "goodhealthandwellbeing",
-      "sustainablecitiesandcommunities"
+      "promotehealth",
+      "sustainablecities"
     ],
     "tech": [
       "api",
       "informationkiosk",
       "softwareintegration",
       "technologystrategy",
-      "userexperience&userinterface",
+      "userexperience",
       "webapp"
     ]
   },
@@ -7641,10 +6958,10 @@
     "pdf": "assets/img/project_pdfs/spring2026/14.pdf",
     "sdg": [
       "qualityeducation",
-      "industryinnovationandinfrastructure"
+      "industryinnovationinfrastructure"
     ],
     "tech": [
-      "customerrelationshipmanagementsystem",
+      "crm",
       "databasesolution",
       "technologystrategy"
     ]
@@ -7697,17 +7014,17 @@
     "pdf": "assets/img/project_pdfs/spring2026/16.pdf",
     "sdg": [
       "qualityeducation",
-      "sustainablecitiesandcommunities"
+      "sustainablecities"
     ],
     "tech": [
       "api",
       "artificialintelligence&machinelearning",
       "dataanalytics",
       "databasesolution",
-      "informationsecurity&risk",
+      "informationsecurityrisk",
       "optimizationalgorithms",
       "softwareintegration",
-      "userexperience&userinterface",
+      "userexperience",
       "webapp"
     ]
   },
@@ -7732,12 +7049,12 @@
     "logo": "assets/img/project_logos/spring2026/17.png",
     "pdf": "assets/img/project_pdfs/spring2026/17.pdf",
     "sdg": [
-      "goodhealthandwellbeing"
+      "promotehealth"
     ],
     "tech": [
       "api",
       "dataanalytics",
-      "userexperience&userinterface"
+      "userexperience"
     ]
   },
   {
@@ -7761,10 +7078,10 @@
     "logo": "assets/img/project_logos/spring2026/18.png",
     "pdf": "assets/img/project_pdfs/spring2026/18.pdf",
     "sdg": [
-      "cleanwaterandsanitation",
-      "decentworkandeconomicgrowth",
-      "sustainablecitiesandcommunities",
-      "responsibleconsumptionandproduction",
+      "cleanwatersanitation",
+      "workandeconomicgrowth",
+      "sustainablecities",
+      "responsibleconsumption",
       "climateaction",
       "lifeonland"
     ],
@@ -7772,7 +7089,7 @@
       "dataanalytics",
       "databasesolution",
       "searchengineoptimization",
-      "userexperience&userinterface"
+      "userexperience"
     ]
   },
   {
@@ -7795,11 +7112,11 @@
     "logo": "assets/img/project_logos/spring2026/19.png",
     "pdf": "assets/img/project_pdfs/spring2026/19.pdf",
     "sdg": [
-      "goodhealthandwellbeing",
-      "reducedinequalities"
+      "promotehealth",
+      "reduceinequality"
     ],
     "tech": [
-      "customerrelationshipmanagementsystem",
+      "crm",
       "dataanalytics",
       "softwareintegration",
       "technologystrategy"
@@ -7821,18 +7138,18 @@
       "Opally Taebunyanuphap",
       "Cheyu Tu"
     ],
-    "desc": "Radiant Hall Studios supports artists by providing shared studio space and a collaborative creative community. Our team improved two core administrative workflows: the waitlist management system and the resource reservation process. We built a Google Forms and Google Sheets-based system that automatically routes new inquiries into a working waitlist, flags duplicate entries, and supports priority-based sorting for staff review, and introduced YouCanBookMe to replace email-based scheduling with a streamlined self-service system — making Radiant Hall's operations more organized, efficient, and scalable.",
+    "desc": "Radiant Hall Studios supports artists by providing shared studio space and a collaborative creative community. Our team improved two core administrative workflows: the waitlist management system and the resource reservation process. We built a Google Forms and Google Sheets-based system that automatically routes new inquiries into a working waitlist, flags duplicate entries, and supports priority-based sorting for staff review, and introduced YouCanBookMe to replace email-based scheduling with a streamlined self-service system \u2014 making Radiant Hall's operations more organized, efficient, and scalable.",
     "logo": "assets/img/project_logos/spring2026/20.jpeg",
     "pdf": "assets/img/project_pdfs/spring2026/20.pdf",
     "sdg": [
-      "reducedinequalities",
-      "sustainablecitiesandcommunities"
+      "reduceinequality",
+      "sustainablecities"
     ],
     "tech": [
       "databasesolution",
       "softwareintegration",
       "technologystrategy",
-      "userexperience&userinterface"
+      "userexperience"
     ]
   },
   {
@@ -7847,7 +7164,7 @@
     ],
     "students": [
       "Eunice Lee",
-      "Ana Fontán",
+      "Ana Font\u00e1n",
       "Preeya Kirani"
     ],
     "desc": "River Art Works is a Pennsylvania-based nonprofit dedicated to advancing creativity and career development through the arts, operating programs such as ArtTek for Teens and the Greater Westmoreland Arts Coalition (GWAC), a coalition of 16 regional leaders unified around artistic development in Westmoreland County. The student project worked to transform and rebuild the GWAC website and implement a fully functional artist directory on WordPress, featuring tiered membership listings, searchable filters, and a simplified backend dashboard for Jane to manage independently. This modernized GWAC's digital presence and established a sustainable, revenue-generating platform that connects local artists with the broader community.",
@@ -7855,18 +7172,18 @@
     "pdf": "assets/img/project_pdfs/spring2026/21.pdf",
     "sdg": [
       "qualityeducation",
-      "decentworkandeconomicgrowth",
-      "industryinnovationandinfrastructure",
-      "reducedinequalities"
+      "workandeconomicgrowth",
+      "industryinnovationinfrastructure",
+      "reduceinequality"
     ],
     "tech": [
       "api",
       "databasesolution",
-      "mobileapp",
-      "socialmedia",
+      "mobapp",
+      "socialmediapage",
       "softwareintegration",
       "technologystrategy",
-      "userexperience&userinterface",
+      "userexperience",
       "webapp"
     ]
   },
@@ -7894,8 +7211,8 @@
     ],
     "tech": [
       "api",
-      "customerrelationshipmanagementsystem",
-      "informationsecurity&risk",
+      "crm",
+      "informationsecurityrisk",
       "softwareintegration",
       "technologystrategy"
     ]
@@ -7915,21 +7232,21 @@
       "Jonathan Gu",
       "Cass Ma"
     ],
-    "desc": "Sewickley Public Library is a community hub serving 34,000+ annual program attendees with a mission to provide free access to informational, educational, cultural, and recreational resources for the greater Quaker Valley community. Our team built a centralized Monday.com event planning workspace and a connected Monday.com to Excel to Figma newsletter generation pipeline, consolidating event planning from 8 tools across 4 communication channels down to a single platform. The result is a unified source of truth for all three departments that cuts repetitive data entry, reduces formatting errors, and frees the Communications Head from administrative overhead — enabling SPL staff to spend more time on programming and community engagement.",
-    "logo": "assets/img/project_logos/spring2026/23.png",
+    "desc": "Sewickley Public Library is a community hub serving 34,000+ annual program attendees with a mission to provide free access to informational, educational, cultural, and recreational resources for the greater Quaker Valley community. Our team built a centralized Monday.com event planning workspace and a connected Monday.com to Excel to Figma newsletter generation pipeline, consolidating event planning from 8 tools across 4 communication channels down to a single platform. The result is a unified source of truth for all three departments that cuts repetitive data entry, reduces formatting errors, and frees the Communications Head from administrative overhead \u2014 enabling SPL staff to spend more time on programming and community engagement.",
+    "logo": "assets/img/project_logos/spring2026/23.svg",
     "pdf": "assets/img/project_pdfs/spring2026/23.pdf",
     "sdg": [
-      "goodhealthandwellbeing",
+      "promotehealth",
       "qualityeducation",
       "genderequality",
-      "reducedinequalities",
-      "peacejusticeandstronginstitutions"
+      "reduceinequality",
+      "peaceandinclusion"
     ],
     "tech": [
       "databasesolution",
       "softwareintegration",
       "technologystrategy",
-      "userexperience&userinterface"
+      "userexperience"
     ]
   },
   {
@@ -7951,14 +7268,14 @@
     "logo": "assets/img/project_logos/spring2026/24.png",
     "pdf": "assets/img/project_pdfs/spring2026/24.pdf",
     "sdg": [
-      "goodhealthandwellbeing",
-      "sustainablecitiesandcommunities"
+      "promotehealth",
+      "sustainablecities"
     ],
     "tech": [
       "dataanalytics",
       "databasesolution",
       "informationkiosk",
-      "userexperience&userinterface"
+      "userexperience"
     ]
   },
   {
@@ -7983,11 +7300,11 @@
     "pdf": "assets/img/project_pdfs/spring2026/25.pdf",
     "sdg": [
       "qualityeducation",
-      "decentworkandeconomicgrowth",
-      "sustainablecitiesandcommunities"
+      "workandeconomicgrowth",
+      "sustainablecities"
     ],
     "tech": [
-      "userexperience&userinterface",
+      "userexperience",
       "webapp"
     ]
   },
@@ -8010,12 +7327,12 @@
     "logo": "assets/img/project_logos/spring2026/26.png",
     "pdf": "assets/img/project_pdfs/spring2026/26.pdf",
     "sdg": [
-      "goodhealthandwellbeing"
+      "promotehealth"
     ],
     "tech": [
       "dataanalytics",
       "databasesolution",
-      "socialmedia",
+      "socialmediapage",
       "webapp"
     ]
   },
@@ -8038,11 +7355,11 @@
     "logo": "assets/img/project_logos/spring2026/27.jpeg",
     "pdf": "assets/img/project_pdfs/spring2026/27.pdf",
     "sdg": [
-      "goodhealthandwellbeing"
+      "promotehealth"
     ],
     "tech": [
       "technologystrategy",
-      "userexperience&userinterface"
+      "userexperience"
     ]
   },
   {
@@ -8066,15 +7383,15 @@
     "pdf": "assets/img/project_pdfs/spring2026/28.pdf",
     "sdg": [
       "qualityeducation",
-      "industryinnovationandinfrastructure",
-      "reducedinequalities"
+      "industryinnovationinfrastructure",
+      "reduceinequality"
     ],
     "tech": [
       "api",
       "artificialintelligence&machinelearning",
       "databasesolution",
       "softwareintegration",
-      "userexperience&userinterface"
+      "userexperience"
     ]
   },
   {
@@ -8096,20 +7413,20 @@
     "logo": "assets/img/project_logos/spring2026/29.png",
     "pdf": "assets/img/project_pdfs/spring2026/29.pdf",
     "sdg": [
-      "goodhealthandwellbeing",
+      "promotehealth",
       "qualityeducation",
-      "decentworkandeconomicgrowth",
-      "industryinnovationandinfrastructure",
-      "reducedinequalities",
-      "sustainablecitiesandcommunities",
-      "partnershipsforthegoals"
+      "workandeconomicgrowth",
+      "industryinnovationinfrastructure",
+      "reduceinequality",
+      "sustainablecities",
+      "partnershipsforgoals"
     ],
     "tech": [
       "api",
       "dataanalytics",
       "databasesolution",
-      "mobileapp",
-      "userexperience&userinterface"
+      "mobapp",
+      "userexperience"
     ]
   }
 ]
