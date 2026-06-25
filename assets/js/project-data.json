@@ -7233,7 +7233,7 @@
       "Cass Ma"
     ],
     "desc": "Sewickley Public Library is a community hub serving 34,000+ annual program attendees with a mission to provide free access to informational, educational, cultural, and recreational resources for the greater Quaker Valley community. Our team built a centralized Monday.com event planning workspace and a connected Monday.com to Excel to Figma newsletter generation pipeline, consolidating event planning from 8 tools across 4 communication channels down to a single platform. The result is a unified source of truth for all three departments that cuts repetitive data entry, reduces formatting errors, and frees the Communications Head from administrative overhead \u2014 enabling SPL staff to spend more time on programming and community engagement.",
-    "logo": "assets/img/project_logos/spring2026/23.svg",
+    "logo": "assets/img/project_logos/spring2026/23.png",
     "pdf": "assets/img/project_pdfs/spring2026/23.pdf",
     "sdg": [
       "promotehealth",
@@ -7427,6 +7427,33 @@
       "databasesolution",
       "mobapp",
       "userexperience"
+    ]
+  },
+  {
+    "id": 303,
+    "partner": "Wesley Family Services",
+    "year": 2026,
+    "course": [
+      "67-373"
+    ],
+    "representatives": [
+      "Aaron Richards"
+    ],
+    "students": [
+      "Yuqi Zou",
+      "Yuxiang Huang"
+    ],
+    "desc": "The team modernized the existing account creation workflow by replacing the CSV-based process with a more structured and accessible system.",
+    "logo": "assets/img/project_logos/spring2026/30.png",
+    "pdf": "assets/img/project_pdfs/spring2026/30.pdf",
+    "sdg": [
+      "qualityeducation",
+      "peacejusticeandstronginstitutions",
+      "sustainablecitiesandcommunities"
+    ],
+    "tech": [
+      "api",
+      "databasesolution"
     ]
   }
 ]
